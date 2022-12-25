@@ -4987,7 +4987,18 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Boomerang",
+              "type": "Boomerang::Boomerang",
+              "ThrowSpeed": 200,
+              "ReturnTime": 2,
+              "Rotation": 0,
+              "ThrowerX": 0,
+              "ThrowerY": 0,
+              "BoomerangReturning": false
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -14646,7 +14657,50 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "DaggerState",
+              "type": "boolean",
+              "value": true
+            },
+            {
+              "folded": true,
+              "name": "BatCount",
+              "type": "number",
+              "value": 3
+            },
+            {
+              "folded": true,
+              "name": "BatMaxCount",
+              "type": "number",
+              "value": 3
+            },
+            {
+              "folded": true,
+              "name": "MaxHealth",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "folded": true,
+              "name": "BloodShotDMG",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "folded": true,
+              "name": "WhiteShotDMG",
+              "type": "number",
+              "value": 20
+            },
+            {
+              "folded": true,
+              "name": "DashLength",
+              "type": "number",
+              "value": 100
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -15159,6 +15213,15 @@
                 "=",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"BatThrowTimer\""
+              ]
             }
           ]
         },
@@ -15552,6 +15615,183 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "OrbitingObjects::AnimateOrbitingObjects"
+              },
+              "parameters": [
+                "",
+                "Player",
+                "BossIcon",
+                "Player.Variable(BatCount)",
+                "50",
+                "25",
+                "0",
+                "\"\"",
+                "40",
+                "0",
+                "yes",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "f"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"BatThrowTimer\"",
+                ">",
+                "0.3"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "BatCount",
+                ">",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "BossIcon",
+                "Gun.PointX(\"Front\")",
+                "Gun.PointY(\"Front\")",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Boomerang::Boomerang::ThrowBoomerangAngle"
+              },
+              "parameters": [
+                "BossIcon",
+                "Boomerang",
+                "Gun.Angle()",
+                "200",
+                "2.5",
+                "0",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"BatThrowTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "BatCount",
+                "-",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "Boomerang::Boomerang::TrackingThrower"
+              },
+              "parameters": [
+                "BossIcon",
+                "Boomerang",
+                "Player",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "BossIcon",
+                "Player",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "BossIcon",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "BatCount",
+                "+",
+                "1"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -15579,6 +15819,10 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "Boomerang",
+          "type": "Boomerang::Boomerang"
+        },
         {
           "name": "FireBullet",
           "type": "FireBullet::FireBullet"
