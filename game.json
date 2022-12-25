@@ -4874,7 +4874,14 @@
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "HitLagState",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -4932,6 +4939,21 @@
           "x": 530,
           "y": 396,
           "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Lighting",
+          "name": "PlayerLight",
+          "persistentUuid": "a803f1f0-c230-472d-990e-a10b3d42f0bf",
+          "width": 0,
+          "x": 635,
+          "y": 452,
+          "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5593,8 +5615,46 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "effects": [],
-          "behaviors": [],
+          "effects": [
+            {
+              "effectType": "Glow",
+              "name": "Attack",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "255;0;0"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Glow",
+              "name": "Return",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "0;255;247"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "Boomerang",
+              "type": "Boomerang::Boomerang",
+              "ThrowSpeed": 100,
+              "ReturnTime": 1,
+              "Rotation": 360,
+              "ThrowerX": 0,
+              "ThrowerY": 0,
+              "BoomerangReturning": false
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -14699,6 +14759,48 @@
               "name": "DashLength",
               "type": "number",
               "value": 100
+            },
+            {
+              "folded": true,
+              "name": "PlayerSpeed",
+              "type": "number",
+              "value": 1250
+            },
+            {
+              "folded": true,
+              "name": "PlayerMaxSpeed",
+              "type": "string",
+              "value": "350"
+            },
+            {
+              "folded": true,
+              "name": "VampireState",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "VampireVisionColor",
+              "type": "number",
+              "value": 43
+            },
+            {
+              "folded": true,
+              "name": "VampireCameraZoom",
+              "type": "number",
+              "value": 2
+            },
+            {
+              "folded": true,
+              "name": "VampireLight",
+              "type": "number",
+              "value": 150
+            },
+            {
+              "folded": true,
+              "name": "ShadowCloneCount",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
@@ -14770,14 +14872,14 @@
               "type": "ShakeObject::ShakeObject_PositionAngleScale"
             },
             {
-              "acceleration": 400,
-              "allowDiagonals": false,
+              "acceleration": 1250,
+              "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
               "customIsometryAngle": 30,
-              "deceleration": 800,
+              "deceleration": 3500,
               "ignoreDefaultControls": true,
-              "maxSpeed": 200,
+              "maxSpeed": 350,
               "movementAngleOffset": 0,
               "name": "TopDownMovement",
               "rotateObject": false,
@@ -14848,7 +14950,318 @@
         },
         {
           "assetStoreId": "",
+          "name": "PlayerShadowClone",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "DaggerState",
+              "type": "boolean",
+              "value": true
+            },
+            {
+              "folded": true,
+              "name": "BatCount",
+              "type": "number",
+              "value": 3
+            },
+            {
+              "folded": true,
+              "name": "BatMaxCount",
+              "type": "number",
+              "value": 3
+            },
+            {
+              "folded": true,
+              "name": "MaxHealth",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "folded": true,
+              "name": "BloodShotDMG",
+              "type": "number",
+              "value": 10
+            },
+            {
+              "folded": true,
+              "name": "WhiteShotDMG",
+              "type": "number",
+              "value": 20
+            },
+            {
+              "folded": true,
+              "name": "DashLength",
+              "type": "number",
+              "value": 100
+            },
+            {
+              "folded": true,
+              "name": "PlayerSpeed",
+              "type": "number",
+              "value": 300
+            },
+            {
+              "folded": true,
+              "name": "PlayerMaxSpeed",
+              "type": "string",
+              "value": "300"
+            },
+            {
+              "folded": true,
+              "name": "VampireState",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "VampireVisionColor",
+              "type": "number",
+              "value": 43
+            },
+            {
+              "folded": true,
+              "name": "VampireCameraZoom",
+              "type": "number",
+              "value": 2
+            },
+            {
+              "folded": true,
+              "name": "VampireLight",
+              "type": "number",
+              "value": 150
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FireBullet",
+              "type": "FireBullet::FireBullet",
+              "FireCooldown": 1,
+              "HasJustFired": false,
+              "FiringArc": 1,
+              "BulletQuantity": 1,
+              "AngleVariance": 0,
+              "RotateBullet": true,
+              "AmmoQuantity": 0,
+              "ShotsPerReload": 0,
+              "ReloadDuration": 1,
+              "MaxAmmo": 0,
+              "ShotsBeforeNextReload": 0,
+              "TotalShotsFired": 0,
+              "TotalBulletsCreated": 0,
+              "StartingAmmo": 0,
+              "TotalReloadsCompleted": 0,
+              "UnlimitedAmmo": true,
+              "ReloadInProgress": false,
+              "HeatIncreasePerShot": 0,
+              "HeatLevel": 0,
+              "AutomaticReloading": true,
+              "OverheatDuration": 0,
+              "LinearCoolingRate": 0.1,
+              "ExponentialCoolingRate": 0.3
+            },
+            {
+              "name": "Health",
+              "type": "Health::Health",
+              "Health": 100,
+              "CurrentHealth": 0,
+              "MaxHealth": 100,
+              "DamageCooldown": 0,
+              "IsHealthJustDamaged": false,
+              "HealthRegenRate": 0,
+              "HealthRegenDelay": 0,
+              "AllowOverHealing": false,
+              "HitAtLeastOnce": false,
+              "IsJustHealed": false,
+              "CurrentShieldPoints": 0,
+              "MaxShieldPoints": 0,
+              "ShieldDuration": 5,
+              "ShieldRegenRate": 0,
+              "BlockExcessDamage": false,
+              "ShieldRegenDelay": 0,
+              "IsShieldJustDamaged": false,
+              "ChanceToDodge": 0,
+              "DamageToBeApplied": 0,
+              "FlatDamageReduction": 0,
+              "PercentDamageReduction": 0,
+              "IsJustDodged": false,
+              "ShieldDamageTaken": 0,
+              "HealToBeApplied": 0
+            },
+            {
+              "name": "MagneticEffect",
+              "type": "MagneticEffect::MagneticEffect",
+              "Speed": 48,
+              "Distance": 128,
+              "IsAttracted": false
+            },
+            {
+              "name": "ShakeObject_PositionAngleScale",
+              "type": "ShakeObject::ShakeObject_PositionAngleScale"
+            },
+            {
+              "name": "TopDownMovement",
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "acceleration": 1250,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "customIsometryAngle": 30,
+              "deceleration": 3500,
+              "ignoreDefaultControls": true,
+              "maxSpeed": 350,
+              "movementAngleOffset": 0,
+              "rotateObject": false,
+              "viewpoint": "TopDown"
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\PxArt\\Jam1-1.png",
+                      "points": [
+                        {
+                          "name": "Gun",
+                          "x": 20.011644337275257,
+                          "y": 23.233561894665026
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.80890417098999,
+                            "y": 0
+                          },
+                          {
+                            "x": 27.704795837402344,
+                            "y": 0
+                          },
+                          {
+                            "x": 27.573286056518555,
+                            "y": 32
+                          },
+                          {
+                            "x": 5.80890417098999,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
           "name": "Gun",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngleScale",
+              "type": "ShakeObject::ShakeObject_PositionAngleScale"
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\PxArt\\Gun2-1.jpg",
+                      "points": [
+                        {
+                          "name": "Front",
+                          "x": 32.110272969285106,
+                          "y": 13.041781072747218
+                        },
+                        {
+                          "name": "Back",
+                          "x": 4.033560138859161,
+                          "y": 9.819864769504495
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.1321912791631,
+                        "y": 16.39520723525792
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "GunShadowClone",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -15177,6 +15590,21 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "PlayerLight",
+          "tags": "",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "radius": 150,
+            "color": "255;255;255",
+            "debugMode": false,
+            "texture": ""
+          }
         }
       ],
       "events": [
@@ -15221,6 +15649,34 @@
               "parameters": [
                 "Player",
                 "\"BatThrowTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "DaggerState",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"DaggerThrowTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"VampireStateTimer\""
               ]
             }
           ]
@@ -15275,6 +15731,65 @@
                 "Player.PointY(\"Gun\")",
                 "10",
                 "Gun.Angle()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCenter"
+              },
+              "parameters": [
+                "PlayerLight",
+                "=",
+                "Player.CenterX()",
+                "=",
+                "Player.CenterY()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetLayerAmbientLightColor"
+              },
+              "parameters": [
+                "",
+                "",
+                "ToString(Player.Variable(VampireVisionColor))+ \";43;43\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Lighting::SetRadius"
+              },
+              "parameters": [
+                "PlayerLight",
+                "Player.Variable(VampireLight)"
+              ]
+            },
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::MaxSpeed"
+              },
+              "parameters": [
+                "Player",
+                "TopDownMovement",
+                "=",
+                "Player.Variable(PlayerMaxSpeed)"
+              ]
+            },
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::Acceleration"
+              },
+              "parameters": [
+                "Player",
+                "TopDownMovement",
+                "=",
+                "Player.Variable(PlayerSpeed)"
               ]
             }
           ]
@@ -15627,7 +16142,7 @@
               "parameters": [
                 "",
                 "Player",
-                "BossIcon",
+                "SwitchBlue",
                 "Player.Variable(BatCount)",
                 "50",
                 "25",
@@ -15765,6 +16280,16 @@
             },
             {
               "type": {
+                "value": "Boomerang::Boomerang::IsBoomerangReturning"
+              },
+              "parameters": [
+                "BossIcon",
+                "Boomerang",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": []
@@ -15792,6 +16317,657 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "q"
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "DaggerState",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "DaggerState",
+                "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "AnimeSword",
+                "Gun.PointX(\"Front\")",
+                "Gun.PointY(\"Front\")",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Boomerang::Boomerang::ThrowBoomerangPosition"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Boomerang",
+                "MouseX()",
+                "MouseY()",
+                "250",
+                "2",
+                "160",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "EnableEffect"
+              },
+              "parameters": [
+                "AnimeSword",
+                "\"Return\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"DaggerThrowTimer\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Boomerang::Boomerang::IsBoomerangReturning"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Boomerang",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Player",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "AnimeSword",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "DaggerState",
+                "True"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "DaggerState",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "q"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"DaggerThrowTimer\"",
+                ">",
+                "0.4"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Boomerang::Boomerang::IsBoomerangReturning"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Boomerang",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Boomerang::Boomerang::ReturnBoomerang"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Boomerang",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Boomerang::Boomerang::IsBoomerangReturning"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Boomerang",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EnableEffect"
+              },
+              "parameters": [
+                "AnimeSword",
+                "\"Attack\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "EnableEffect"
+              },
+              "parameters": [
+                "AnimeSword",
+                "\"Return\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Boomerang::Boomerang::IsBoomerangReturning"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Boomerang",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Boomerang::Boomerang::TrackingThrower"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Boomerang",
+                "Player",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceVersPos"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Player.X()",
+                "Player.Y()",
+                "150",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Boomerang::Boomerang::IsBoomerangReturning"
+              },
+              "parameters": [
+                "AnimeSword",
+                "Boomerang",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceVersPos"
+              },
+              "parameters": [
+                "AnimeSword",
+                "MouseX()",
+                "MouseY()",
+                "250",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "LShift"
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "VampireState",
+                "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"VampireStateTimer\"",
+                ">",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"VampireStateTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "VampireState",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"VisionColor\"",
+                "VampireVisionColor",
+                "255",
+                "\"linear\"",
+                "150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"LightSize\"",
+                "VampireLight",
+                "300",
+                "\"linear\"",
+                "150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"PlayerSpeed\"",
+                "PlayerSpeed",
+                "2000",
+                "\"linear\"",
+                "150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"PlayerMaxSpeed\"",
+                "PlayerMaxSpeed",
+                "450",
+                "\"linear\"",
+                "150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "0.6"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "HitLagState",
+                    "False"
+                  ]
+                }
+              ],
+              "actions": []
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "LShift"
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "VampireState",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "CompareObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"VampireStateTimer\"",
+                ">",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"VisionColor\"",
+                "VampireVisionColor",
+                "43",
+                "\"linear\"",
+                "250",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"LightSize\"",
+                "VampireLight",
+                "150",
+                "\"linear\"",
+                "250",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"PlayerSpeed\"",
+                "PlayerSpeed",
+                "1250",
+                "\"linear\"",
+                "150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"PlayerMaxSpeed\"",
+                "PlayerMaxSpeed",
+                "350",
+                "\"linear\"",
+                "150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "VampireState",
+                "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"VampireStateTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShadowClones::DeleteShadowClones"
+              },
+              "parameters": [
+                "",
+                "Player",
+                "PlayerShadowClone",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShadowClones::DeleteShadowClones"
+              },
+              "parameters": [
+                "",
+                "Gun",
+                "GunShadowClone",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "VampireState",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ShadowClones::AnimateShadowClones"
+              },
+              "parameters": [
+                "",
+                "Player",
+                "PlayerShadowClone",
+                "8",
+                "1",
+                "2",
+                "2",
+                "\"\"",
+                "40",
+                "yes",
+                "yes",
+                "yes",
+                "yes",
+                "yes",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShadowClones::AnimateShadowClones"
+              },
+              "parameters": [
+                "",
+                "Gun",
+                "GunShadowClone",
+                "8",
+                "1",
+                "2",
+                "2",
+                "\"\"",
+                "41",
+                "yes",
+                "yes",
+                "yes",
+                "yes",
+                "yes",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -15815,6 +16991,17 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 43,
+          "ambientLightColorG": 43,
+          "ambientLightColorR": 43,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
