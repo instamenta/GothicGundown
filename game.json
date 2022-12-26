@@ -6300,6 +6300,1237 @@
         "name": "NewFile-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull_Spinning_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull_Spinning_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/e2af14ac50a377804d22d5aa3a742218cd84e494fe4602a3d9d47b754c5ad6f9_Skull_Spinning_1.png",
+          "name": "Skull_Spinning_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull_Spinning_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull_Spinning_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/5c25e298e41b2b5e5903678eced5f4289bceaee25960f9ed0711cb3badcd76d1_Skull_Spinning_2.png",
+          "name": "Skull_Spinning_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull_Spinning_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull_Spinning_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/b7d45714d4918caee3e429a4e71595b8d6474b072540036a435cdfc654ca322c_Skull_Spinning_3.png",
+          "name": "Skull_Spinning_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull_Spinning_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull_Spinning_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/ab9bdcb5f00875c55c3ff1a129de6d973f7d36072ee98cdeb01a76cd7db00d95_Skull_Spinning_4.png",
+          "name": "Skull_Spinning_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull_Spinning_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull_Spinning_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/57cd94d2500bb632f537333fc478645db8173042d724339d53f98f6be976de98_Skull_Spinning_5.png",
+          "name": "Skull_Spinning_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull_Spinning_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull_Spinning_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/0855b96e8c9a2e51d13ea427e97fb6d1ad606a19230c679152ea8ba76584ad4c_Skull_Spinning_6.png",
+          "name": "Skull_Spinning_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull_Spinning_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull_Spinning_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/cadbe66ef25a995d6194603d7b817cb756886932a98f1b5fe1fc206f18156e41_Skull_Spinning_7.png",
+          "name": "Skull_Spinning_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull_Spinning_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull_Spinning_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/5dc9bde05c84bdb7b4a45f9a5371963b59be6817483ab52e4d86e5016245ae9d_Skull_Spinning_8.png",
+          "name": "Skull_Spinning_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Orb_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Orb_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/4f6ad45651792170aef28439381b6c651c88c5f52019d9346f4de7b57c803de8_Green Orb_No Shadow.png",
+          "name": "Green Orb_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Green Orb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Green Orb_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Orbs/f05e2cfd28721266f1d332a958cc91d7c8e163a7d49f67b9aabe66613112495c_Green Orb_Shadow.png",
+          "name": "Green Orb_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NoShadow-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NoShadow-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b8092be2635a21fa14befba53f8ff381202c34c70a15fbadc36b6c1f1a0e9ab6_Light Cast_1.png",
+          "name": "Light Cast_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b932e0e22ff047d5b425e2bc200ed757c434fe74b4d20b885e79a077f8370df8_Light Cast_10.png",
+          "name": "Light Cast_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/16d09d82421629c9aab4b8f96986d02cb106f4ded078573f88f89f3cc5a6b050_Light Cast_11.png",
+          "name": "Light Cast_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d40eaec7cca29daf0b0371d15ad76bd38052eb9a6a18283cf7b7c35c3fa7bb85_Light Cast_12.png",
+          "name": "Light Cast_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/3db56ba72f38fe2292cf2012d297975c37ae3987678381fd3783725b541a86e7_Light Cast_13.png",
+          "name": "Light Cast_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7807eaf1729471413cccaccf0cca0e41ea89bacd151174c13cd6bb957ec8ba48_Light Cast_14.png",
+          "name": "Light Cast_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/0842d8f2175c67a621214695841a5cfbca8449ba8dbaf623edc975fd2af2c163_Light Cast_15.png",
+          "name": "Light Cast_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/39bc797d5c843f213d08c7eba4e0a89704581c6c2dbfe4e630f5584ec15b192d_Light Cast_16.png",
+          "name": "Light Cast_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/3c6ebaf12f6babb139538f55afbbadbca7888cc0527f35c95c3bc88fa6a08118_Light Cast_17.png",
+          "name": "Light Cast_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/35832b7d6cd5eae7ebeaf2cf95c9f9c8de156d8092343fe9a8a7f1cd3142a9fa_Light Cast_18.png",
+          "name": "Light Cast_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/32b610537b418fd13254c5d55c78d6dbe09fe2e088ce751d9a9c8af8669a1ac1_Light Cast_19.png",
+          "name": "Light Cast_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/269a3fd1bb9cf3f8865568836f215ddcbba5b0e2942a764eacefa695dc034175_Light Cast_2.png",
+          "name": "Light Cast_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/a9c91c9f865c8aedb18af24ced375cd4846c81f06ee725ae5df3c884aeb5a12c_Light Cast_20.png",
+          "name": "Light Cast_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_21.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/e2dba2900484379d03f917ae32772002a58fa4b2343e33888b5ee60171727cff_Light Cast_21.png",
+          "name": "Light Cast_21.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_22.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b628d18b74757ae20a8d461b9221f20ecdab889d61ec0da1ce39f8c107c0fa98_Light Cast_22.png",
+          "name": "Light Cast_22.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_23.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/be5e9428a1b123c8237fc80a41490f2bb700066ded1483fb56c83057acbbf2e5_Light Cast_23.png",
+          "name": "Light Cast_23.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_24.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/51f7497a0988e5e512e35287f6c268c18ce2ce4ec17949c80c526eae0541dda1_Light Cast_24.png",
+          "name": "Light Cast_24.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_25.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/27bfe9ff2cddd8d31565fca21b96d4a3d3a208d68163907d29200d97044b5f34_Light Cast_25.png",
+          "name": "Light Cast_25.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_26.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/e456f230abdb38cf66f712901b3b9d75ef354d86ec9746ee74bbab4ae91c8eb4_Light Cast_26.png",
+          "name": "Light Cast_26.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_27.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d1a89a6fb8f6b2e0a4354bcd139d32c22d5b70ba86b9457eaa76d7633f0eb9ae_Light Cast_27.png",
+          "name": "Light Cast_27.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_28.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/12176376dff01a91f84a1dd6cf065453a181c6b4e05ce5db27964979f3a452c2_Light Cast_28.png",
+          "name": "Light Cast_28.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/3d472a5d9cddf332785f8ca2fa7df112796c8734affbbef6101af906f22ec843_Light Cast_3.png",
+          "name": "Light Cast_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b07dafce6803017818053db1decbeeaf56f874877d5eb5b4b9004e7e4f467067_Light Cast_4.png",
+          "name": "Light Cast_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/024d40bae32b170742105ff486d7ce70d23390dcb03d45a3e4d557bc053b54b4_Light Cast_5.png",
+          "name": "Light Cast_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/919f2445b4db0442da46fe5e182277d3ca77f56f88edbc8aa57a22847879c24c_Light Cast_6.png",
+          "name": "Light Cast_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d1a45e2d3fe229e1e4ebc599c0c420be29c7c8999dead71417683cf9428b6703_Light Cast_7.png",
+          "name": "Light Cast_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/e4cd664beb86fc1845d0edbaa6d5d7f6072fb6423af702337411fb8cd0fa5384_Light Cast_8.png",
+          "name": "Light Cast_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Light Cast_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Light Cast_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/9bbcfe6c84d3811bba717404881b84d4554827ddc524df98bb296b660df7e29f_Light Cast_9.png",
+          "name": "Light Cast_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/5f6c428a92685fe57c973936da6bb7c677556245d2609c4b3ed200a909cebd3f_Holy Explosion_1.png",
+          "name": "Holy Explosion_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/8a6a13d6fe4e6c4c4454b8fe86990ff68759c4042dbea1b69fde8052871d5acf_Holy Explosion_10.png",
+          "name": "Holy Explosion_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/00543c248edb371c27fdafe60c96fffae4fb6477bbab3d7144cbe0eb7519d5ec_Holy Explosion_11.png",
+          "name": "Holy Explosion_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b8a08e80afb90f59211cbc573bb4fee0218f7271c6064e68cc13ff18d42cb6a3_Holy Explosion_12.png",
+          "name": "Holy Explosion_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/9dadc265f744f871b826b1ca59c986e6ee5b62290f3d01e090654195e9c9f1e0_Holy Explosion_13.png",
+          "name": "Holy Explosion_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/20564a974746f0e2d53d2cc28003a91c2c90eb7b01186fa35a0326214b5ed899_Holy Explosion_14.png",
+          "name": "Holy Explosion_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/83062f4e26106d88a25653179218fb88eb8e5119628d9370969444fd9ba6b349_Holy Explosion_15.png",
+          "name": "Holy Explosion_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/f6ff433b33cb52d5c4ae577d6df05559af8d9188f838b3a016285f2346a22e02_Holy Explosion_16.png",
+          "name": "Holy Explosion_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/3293ff03d88949b846eef0d6357c7cdfe290b5e49f12686a2f627c8a1e0cf614_Holy Explosion_17.png",
+          "name": "Holy Explosion_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/677ff48d9135fb4f2c9dd4e56da2a030f610324bfb84a8837628962b987f77d6_Holy Explosion_18.png",
+          "name": "Holy Explosion_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/da65ec98328d9b62c33ecbd8f404907bbc88b1253eb11630c7f024a177ee5d4b_Holy Explosion_19.png",
+          "name": "Holy Explosion_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7bfac6ec2d3a91260b0c24ea519c2aaf3f3fb03439d7130c270e42890dfbfbac_Holy Explosion_2.png",
+          "name": "Holy Explosion_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/8ec4fbcee7aa8c0993009b4c85985757079727b85b43edcd7f54b3d8e4f00621_Holy Explosion_20.png",
+          "name": "Holy Explosion_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_21.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/a0c746478952983c8b3118b6f68e007423a723da9e212722fb021ce04a6e3ec1_Holy Explosion_21.png",
+          "name": "Holy Explosion_21.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_22.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/03d89bd2f782776ee0eefdab76a11afafeb723337fbdfd245291e0181d908fde_Holy Explosion_22.png",
+          "name": "Holy Explosion_22.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_23.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/053dfe8d93581ec8649ee9d7dc813632a0d0829f7c97d74b6d880935ddceb399_Holy Explosion_23.png",
+          "name": "Holy Explosion_23.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_24.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7583c8b969b217fb53f05b2c56af9b97a6a65adddbb14f84f1d89cf23d7d7a4c_Holy Explosion_24.png",
+          "name": "Holy Explosion_24.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_25.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/dc110e61a55609b496f235a241e724f189b82f1696b4afcb5bd1a3612a5b14b7_Holy Explosion_25.png",
+          "name": "Holy Explosion_25.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_26.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/980eaa1f6baeb188099bb41db0a5e68ab22aef13bb73f5318160040dd27241a4_Holy Explosion_26.png",
+          "name": "Holy Explosion_26.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_27.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b7e6979c86eddc024a4860ef8b602af63d321a0d553684d0479988a1fb2eabb5_Holy Explosion_27.png",
+          "name": "Holy Explosion_27.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_28.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7a1c266db2363a9dfd01778e5db325bd0711f714abea0e94b521047d3fd084fe_Holy Explosion_28.png",
+          "name": "Holy Explosion_28.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/cbba6b3641be87916ee108950364ee46a9c0cb6aadea375154f16b6dab7dc0b7_Holy Explosion_3.png",
+          "name": "Holy Explosion_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/712ee001f842ff100ca41f30045978633fc23f270c46c896708fef0cb48e254f_Holy Explosion_4.png",
+          "name": "Holy Explosion_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/007f2fdd56af505d8e5c7d76e8dbcce2c7be31096ca1913a07f8505796cddfb7_Holy Explosion_5.png",
+          "name": "Holy Explosion_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/0f3e98df1617c3988432a75ef3e66fafd5f4cde6ee9c422075fe051bfe933d2d_Holy Explosion_6.png",
+          "name": "Holy Explosion_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/595076ccb1005393093d99e4cb1a52ae37d7babf3a83b8776f6fdc5ed623efdc_Holy Explosion_7.png",
+          "name": "Holy Explosion_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/a74a887b54f3aba7eaddd6ce972be57a0c358ff2f6ed5036d137dc02e962f85b_Holy Explosion_8.png",
+          "name": "Holy Explosion_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Holy Explosion_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Holy Explosion_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/1e57f1a5e1229117ab90622576b7b02cbc1532c919b10ffa500aacc54edd5863_Holy Explosion_9.png",
+          "name": "Holy Explosion_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/711daa55329749d801ecd8af3330e964f8943519071dafa31b586b3ed94550fc_Ice Cast_1.png",
+          "name": "Ice Cast_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/9cfe286ddad7f59c7c95580b62e28b7c3d1439f5c4af55136028078313bbda7b_Ice Cast_10.png",
+          "name": "Ice Cast_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/7852e31e978b49bfe88b4f574db0e5041d80c9a1b045d8a4783f49591962c594_Ice Cast_11.png",
+          "name": "Ice Cast_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/2ac9af7a770b04b785cae0d1678d393a59c3fd43be96a19f16802ed97533dc0a_Ice Cast_12.png",
+          "name": "Ice Cast_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/555cfb733a2dd7a70ae1043601466bca6f2571fbc6f964cc47fbf1eee9d5bec9_Ice Cast_13.png",
+          "name": "Ice Cast_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/3270ea40a2376284df25e0d72007adeb3ee02f6c3c7162817ec5edb73420efdd_Ice Cast_14.png",
+          "name": "Ice Cast_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/e218e42c6598439a7f20aa1cc7d8d9bf4916e311cc793fe2543651f88381f330_Ice Cast_15.png",
+          "name": "Ice Cast_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/415319915c1171cc7cd473a93325c4ecea9c315ee90cea52d4cc6e38d3f6a56e_Ice Cast_16.png",
+          "name": "Ice Cast_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/db0c0e0bf2849581c6a39b43e5e952e10aa5ec60cfa38420734a270637ee1b60_Ice Cast_17.png",
+          "name": "Ice Cast_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/09b7459fdc053c9c2c13850713d2d982495c6eeb44c98e08034f4dad7376ed13_Ice Cast_18.png",
+          "name": "Ice Cast_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/1d94da9ad20b92347e174375f5e0619bb77e8fd78b0907c8a80e4d03be4229f7_Ice Cast_19.png",
+          "name": "Ice Cast_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/a6e77e0003819476e145ecc15de02ffe61dcdc9f4ba9e4e90459668d0aebac06_Ice Cast_2.png",
+          "name": "Ice Cast_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/22ef728a6841645e0099fd15defb25fa17e2751e765e784d014c429819c83e3f_Ice Cast_20.png",
+          "name": "Ice Cast_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_21.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/b80d3df3cc8d1bd9de06b8c55331250a1d14dba6ed736313cdf6f738778c0e69_Ice Cast_21.png",
+          "name": "Ice Cast_21.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_22.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/07b072fdfdda5139d7d399caf5c3d60c13e18eef994a4c34beb130e7864225a8_Ice Cast_22.png",
+          "name": "Ice Cast_22.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_23.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/38b438c165a57c6a53e0eb9241e5e02f3f811944c219c3119c6261a39e70297f_Ice Cast_23.png",
+          "name": "Ice Cast_23.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_24.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/23904898cbb76649af3f9b3874993aaeffd1f08cc193bbaf080556c36e027d0d_Ice Cast_24.png",
+          "name": "Ice Cast_24.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_25.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/559328346f4df9ac25802fdd1cb07b0d3b41a88e32d56bef3dd20fbb34fdc83e_Ice Cast_25.png",
+          "name": "Ice Cast_25.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_26.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/df1987a20a296cc10dc988770f463c853ae187bd3f5fa69381ae0851c0aa4ca3_Ice Cast_26.png",
+          "name": "Ice Cast_26.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_27.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/5ba4260ab3a5faf2366df42e101f3737d2d07a9d06a72d809b2a3f72115a39d7_Ice Cast_27.png",
+          "name": "Ice Cast_27.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_28.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/172edcca1c3a757faf3add055d2e7134c17e726aa4bf044d4f72b3f4ce78d01a_Ice Cast_28.png",
+          "name": "Ice Cast_28.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/2be05574911ea7df4ce0c579de6b8b674846c4df378c1e3f92d7eaa3fe08b72c_Ice Cast_3.png",
+          "name": "Ice Cast_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/1978388e982c29b1a55a1b1b6a868b8e646eeb11945db61392609068e58c32b0_Ice Cast_4.png",
+          "name": "Ice Cast_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/36f4984f08c2797765aeebe23b9d4e5aca438a390cca9425557c2ce28649a3db_Ice Cast_5.png",
+          "name": "Ice Cast_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/1ce921474db3f5cf6626b44e16b5d6e2c49989b4402f505e7b6d4ee98ffb9894_Ice Cast_6.png",
+          "name": "Ice Cast_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/9f1fc4d84f04c9e567c9c81ea543bec1299931e492197bacf027ac3816d65f72_Ice Cast_7.png",
+          "name": "Ice Cast_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/d2867b1d43ce091e52b3e4075a22e9ec3187491ccd7d460cd0cb91fe9ba13d1f_Ice Cast_8.png",
+          "name": "Ice Cast_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ice Cast_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ice Cast_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Art Spell Magic FX/e4daf6aaec462cceccf81b62677f9666590ea6cf39c0b5a6c2b61a324b9a3048_Ice Cast_9.png",
+          "name": "Ice Cast_9.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -16710,6 +17941,12 @@
               "name": "ShadowCloneCount",
               "type": "number",
               "value": 0
+            },
+            {
+              "folded": true,
+              "name": "HitLagState",
+              "type": "boolean",
+              "value": false
             }
           ],
           "effects": [],
@@ -20231,11 +21468,11 @@
           "emitterAngleB": 0,
           "emitterForceMax": 0,
           "emitterForceMin": 0,
-          "flow": 150,
+          "flow": 70,
           "maxParticleNb": 300,
           "name": "ZombieSoulEmitter",
-          "particleAlpha1": 100,
-          "particleAlpha2": 50,
+          "particleAlpha1": 190,
+          "particleAlpha2": 100,
           "particleAlphaRandomness1": 0,
           "particleAlphaRandomness2": 0,
           "particleAngle1": 150,
@@ -20266,9 +21503,19 @@
           "zoneRadius": 0,
           "variables": [],
           "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "bf1f2476368f47b52fd8c2f7101f7f7b0749f29998b9a5c782a6408cb9ad5313",
+          "name": "ZombieSoul",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
           "behaviors": [
             {
-              "acceleration": 150,
+              "acceleration": 470,
               "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
@@ -20277,11 +21524,1561 @@
               "extraBorder": 0,
               "gridOffsetX": 0,
               "gridOffsetY": 0,
-              "maxSpeed": 700,
+              "maxSpeed": 320,
               "name": "Pathfinding",
               "rotateObject": true,
               "smoothingMaxCellGap": 1,
               "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "NoShadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\NoShadow-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.1321912791631,
+                        "y": 15.934932760996363
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.019862651824951,
+                            "y": 5.743152141571045
+                          },
+                          {
+                            "x": 27.44178009033203,
+                            "y": 5.217124938964844
+                          },
+                          {
+                            "x": 27.836299896240234,
+                            "y": 27.573286056518555
+                          },
+                          {
+                            "x": 4.691095352172852,
+                            "y": 27.6390438079834
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "217a0bc0b09b292fcde4f41cea7c5033935c344b60e4782f373bf4c4117e2fb4",
+          "name": "LightCast",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.0357,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Light Cast_28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "00afc552daa2850eb15edfb1d57c7b1ec82156e9a41764c2e595c10d26ae5e4e",
+          "name": "HolyExplosion",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.0357,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Holy Explosion_28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "d82b735a3a11191bdd62cf200087623c537a97df946f80f7776b6b78e3ca0117",
+          "name": "IceCast",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.0357,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ice Cast_28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -21394,6 +24191,95 @@
           "conditions": [
             {
               "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "AnimeSword",
+                "ZombieSoul",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ZombieSoul",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ZombieSoulEmitter",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "HitLagState",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.07"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "HitLagState",
+                "False"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "KeyPressed"
               },
               "parameters": [
@@ -21520,15 +24406,6 @@
             },
             {
               "type": {
-                "value": "ChangeTimeScale"
-              },
-              "parameters": [
-                "",
-                "0.6"
-              ]
-            },
-            {
-              "type": {
                 "value": "ModVarObjet"
               },
               "parameters": [
@@ -21549,22 +24426,77 @@
                 "20"
               ]
             }
-          ],
-          "events": [
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SceneVariableAsBoolean"
-                  },
-                  "parameters": [
-                    "HitLagState",
-                    "False"
-                  ]
-                }
-              ],
-              "actions": []
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "VampireState",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "HitLagState",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "0.6"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "HitLagState",
+                "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "VampireState",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
             }
           ]
         },
@@ -22144,6 +25076,43 @@
                 "BigZombie.CenterY()",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "HitLagState",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.07"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "HitLagState",
+                "False"
+              ]
             }
           ],
           "events": [
@@ -22157,10 +25126,32 @@
                   },
                   "parameters": [
                     "",
+                    "ZombieSoul",
+                    "BigZombie.CenterX()",
+                    "BigZombie.CenterY()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
                     "ZombieSoulEmitter",
                     "BigZombie.CenterX()",
                     "BigZombie.CenterY()",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeScale"
+                  },
+                  "parameters": [
+                    "ZombieSoul",
+                    "=",
+                    "0.8"
                   ]
                 }
               ]
@@ -22200,11 +25191,31 @@
                 "value": "PathfindingBehavior::SetDestination"
               },
               "parameters": [
-                "ZombieSoulEmitter",
+                "ZombieSoul",
                 "Pathfinding",
                 "",
                 "BigZombie.CenterX()",
                 "BigZombie.CenterY()"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "ZombieSoulEmitter",
+                    "=",
+                    "ZombieSoul.CenterX()",
+                    "=",
+                    "ZombieSoul.CenterY()"
+                  ]
+                }
               ]
             }
           ]
@@ -22223,12 +25234,6 @@
                 "",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
             }
           ],
           "actions": [
@@ -22240,9 +25245,192 @@
                 "ZombieSoulEmitter",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ZombieSoul",
+                ""
+              ]
             }
           ],
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount3\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\"",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount3\"",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "Tween",
+                    "\"ZombieResizer\"",
+                    "4",
+                    "4",
+                    "\"bouncePast\"",
+                    "250",
+                    "",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\"",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount3\"",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "Tween",
+                    "\"ZombieResizer\"",
+                    "3.5",
+                    "3.5",
+                    "\"bouncePast\"",
+                    "250",
+                    "",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount1\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount1\"",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\"",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "Tween",
+                    "\"ZombieResizer\"",
+                    "3",
+                    "3",
+                    "\"bouncePast\"",
+                    "250",
+                    "",
+                    "yes"
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -22275,6 +25463,12 @@
                     "BigZombie",
                     "\"SoulCount3\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -22298,164 +25492,8 @@
                     "\"ZombieResizer\"",
                     "2.5",
                     "2.5",
-                    "\"bounce\"",
-                    "100",
-                    "",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "IsEffectEnabled"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "\"SoulCount1\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "EnableEffect"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "\"SoulCount1\"",
-                    "no"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "EnableEffect"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "\"SoulCount2\"",
-                    "yes"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "Tween",
-                    "\"ZombieResizer\"",
-                    "3",
-                    "3",
-                    "\"bounce\"",
-                    "100",
-                    "",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "IsEffectEnabled"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "\"SoulCount2\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "EnableEffect"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "\"SoulCount2\"",
-                    "no"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "EnableEffect"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "\"SoulCount3\"",
-                    "yes"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "Tween",
-                    "\"ZombieResizer\"",
-                    "3.5",
-                    "3.5",
-                    "\"bounce\"",
-                    "100",
-                    "",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "IsEffectEnabled"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "\"SoulCount2\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "EnableEffect"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "\"SoulCount2\"",
-                    "no"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "EnableEffect"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "\"SoulCount3\"",
-                    "yes"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "Tween",
-                    "\"ZombieResizer\"",
-                    "4",
-                    "4",
-                    "\"bounce\"",
-                    "100",
+                    "\"bouncePast\"",
+                    "250",
                     "",
                     "yes"
                   ]
