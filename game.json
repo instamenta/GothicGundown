@@ -15346,6 +15346,18 @@
             },
             {
               "folded": true,
+              "name": "DaggerLightColor",
+              "type": "string",
+              "value": "255;0;0"
+            },
+            {
+              "folded": true,
+              "name": "DaggerLightSize",
+              "type": "number",
+              "value": 79
+            },
+            {
+              "folded": true,
               "name": "BatCount",
               "type": "number",
               "value": 3
@@ -17347,6 +17359,21 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "DaggerLight",
+          "tags": "",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "radius": 79,
+            "color": "255;0;0",
+            "debugMode": false,
+            "texture": ""
+          }
         }
       ],
       "events": [
@@ -17484,6 +17511,18 @@
                 "Player.CenterX()",
                 "=",
                 "Player.CenterY()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetCenter"
+              },
+              "parameters": [
+                "DaggerLight",
+                "=",
+                "AnimeSword.CenterX()",
+                "=",
+                "AnimeSword.CenterY()"
               ]
             }
           ]
@@ -18111,6 +18150,18 @@
               "parameters": [
                 "",
                 "AnimeSword",
+                "Gun.PointX(\"Front\")",
+                "Gun.PointY(\"Front\")",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "DaggerLight",
                 "Gun.PointX(\"Front\")",
                 "Gun.PointY(\"Front\")",
                 ""
