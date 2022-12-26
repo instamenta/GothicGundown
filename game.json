@@ -5108,6 +5108,1189 @@
         "name": "-18.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/be29ff7e4e9e119ee0ba703ac59585bb81dfab8e0cb377ef7d532d79da2b464f_Fel Spell_1.png",
+          "name": "Fel Spell_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/f9c70482b553b1bbcc8c7ba30b571492123a9134cd2dec01d2b240e4a0c81cb2_Fel Spell_10.png",
+          "name": "Fel Spell_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/f1bb53743eb5d6ecd0af687011925437d993a23aa1a7f49bb7857abdbc917347_Fel Spell_11.png",
+          "name": "Fel Spell_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/02ed693a99043d904f10210a663f0f6e2cea99427634f450cc8e4ca0615d2d93_Fel Spell_12.png",
+          "name": "Fel Spell_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/96495e7567b043366d3dc4b4f828d94aaaa57aa3ed66075e447fe4f84b6ae8c8_Fel Spell_13.png",
+          "name": "Fel Spell_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/ee8aa483b429b1532571c97b885928a55f7c908db02307342a5434cf3a6b818f_Fel Spell_14.png",
+          "name": "Fel Spell_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/d6697533043b49a77b6a81e77145519a84066e83dfb2810b30f65e5445f65c8f_Fel Spell_15.png",
+          "name": "Fel Spell_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/cc39b2074e2582219f0029a214f4ba6032d45915d3fa4e08f7997a99d23c8f5d_Fel Spell_16.png",
+          "name": "Fel Spell_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_17.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/c7aa0ed7f7cd772ccd299910df8b9848262f449cf3a1f20f697999d3005a126e_Fel Spell_17.png",
+          "name": "Fel Spell_17.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_18.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/dfdb8783ce4d93745339bd4ebdce859c8da30becaa1d30fc73b60df521bea2fe_Fel Spell_18.png",
+          "name": "Fel Spell_18.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_19.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/125ebf2d5c0214d2fe09ee07726c01c5b5dd501358d050c0db76be1dfedd0d7d_Fel Spell_19.png",
+          "name": "Fel Spell_19.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/abb49604a9b52fb132f892e3baa390c6cf277dcffd427e4f9c928ad792a1860e_Fel Spell_2.png",
+          "name": "Fel Spell_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_20.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/a0ee5d16af9c341ed2ac640e07536cc2ccf365c92fb3bfe259bed39f9f67ac29_Fel Spell_20.png",
+          "name": "Fel Spell_20.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_21.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/078a47b878c9442fb6195c7ba259ff70d8513653dbc95f9cf6af15d8c1b23f24_Fel Spell_21.png",
+          "name": "Fel Spell_21.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_22.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/40c64a383847242fda4dec75d21751f2bcb9a14d213b43456207d779f24c2acc_Fel Spell_22.png",
+          "name": "Fel Spell_22.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_23.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/41f7f8d46eb1eba764477648ebcd99d2b93d8258dc7061b2d1c9ceeda4634f3f_Fel Spell_23.png",
+          "name": "Fel Spell_23.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_24.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/ce233a5e691bf016a04982aba8bc04103a390b2fbaba3167036602dc8f80963f_Fel Spell_24.png",
+          "name": "Fel Spell_24.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_25.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/6ed2e497dd39bad4824b94f824fe8dc3e6a5e29e3e76496f945f321d91f98308_Fel Spell_25.png",
+          "name": "Fel Spell_25.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_26.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/bf50c450735bf551e712b7a7e65e6b1e07230c002d28d292f7422754c65de4ff_Fel Spell_26.png",
+          "name": "Fel Spell_26.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_27.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/3dab80be82295d08baebcdbd404ddbf0e5c6c8670f1e8d7faa0c48ea87c55bde_Fel Spell_27.png",
+          "name": "Fel Spell_27.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_28.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/65295cf97a1d31b5031b3047ebf383a5e5aa19267796c9048d0837edc990f20d_Fel Spell_28.png",
+          "name": "Fel Spell_28.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_29.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/45db317ee8af587763dd7e8af4bfd23399a6d80a6c8f4115b5fcf8c647f3fa1f_Fel Spell_29.png",
+          "name": "Fel Spell_29.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/23a77052d9b9cd35abfb1e9474346ed39178eae75d62118361336b4bcd104a4a_Fel Spell_3.png",
+          "name": "Fel Spell_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_30.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/f89ddaedafcba9d5ad0acc7e229d3dc539e9e5546ceaf71c5aebee44a0f2010b_Fel Spell_30.png",
+          "name": "Fel Spell_30.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_31.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/a546648090148aa13a7b5adace862d20ed3325a348277a747954bf3b145c8bde_Fel Spell_31.png",
+          "name": "Fel Spell_31.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_32.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/0d66441214e0bf26913649cca718e9c48b3147253af514650f590c6f1100c9dc_Fel Spell_32.png",
+          "name": "Fel Spell_32.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_33.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/a4e7871d1f22d28189509e69a147321b52ab7d5110902ac8247f62ec0234da4c_Fel Spell_33.png",
+          "name": "Fel Spell_33.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_34.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/3aa392d72d89d6e124d4fcef24839ad53b30fe70a94bd07de120cda9cf370e70_Fel Spell_34.png",
+          "name": "Fel Spell_34.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_35.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/3f3567c74cb3c8e8571c3622728cf7c04e5b6d938e92ab9844abefe7022c9b7c_Fel Spell_35.png",
+          "name": "Fel Spell_35.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_36.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/92a4a1c6082519d1da81cf28515050c46f8241a4ba0648cf5c51267b95636592_Fel Spell_36.png",
+          "name": "Fel Spell_36.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_37.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/ea3e311755661ba3546b298ce6e5db982072f7a527e0ce133d0519c38a9cf9b8_Fel Spell_37.png",
+          "name": "Fel Spell_37.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_38.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/aa773d1e487d1e91560421b61774c94f5856b402b976365815abcb6d6e23ea00_Fel Spell_38.png",
+          "name": "Fel Spell_38.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_39.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/d27266b5bee4ad202c8e090f4da36576be5638e27a269641227a06263c74914e_Fel Spell_39.png",
+          "name": "Fel Spell_39.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/5660d03bed0fcbb011b0dc87252fbe1c637260b7865a717d0662a0144d75f6e7_Fel Spell_4.png",
+          "name": "Fel Spell_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_40.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_40.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/068e03d241e2e3538dd6d67c1366d05e341790b941993f1658512b2a4b0607e5_Fel Spell_40.png",
+          "name": "Fel Spell_40.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_41.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/1e2ae6b9ef9d6fb46c413840303057ff36916b5e5ea8873715c76580c39b24bf_Fel Spell_41.png",
+          "name": "Fel Spell_41.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_42.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/119b8c75b6f8d398918c037e7dfafbcf812b1c67ddbecd2cbb88f065c8c20f69_Fel Spell_42.png",
+          "name": "Fel Spell_42.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_43.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/7d4cd7dab827f4ed1e5e7078c94e262895a9fd3d046975cc10609b931cd56243_Fel Spell_43.png",
+          "name": "Fel Spell_43.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_44.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/00ff8e90aa1fc1f43ba7c2984723944e586fe7ead519b0352b414133ce336e78_Fel Spell_44.png",
+          "name": "Fel Spell_44.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_45.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/c61aa150ef5faf3889fbcd18a502cdf44c9755236d8900ae4d52bd256b694db7_Fel Spell_45.png",
+          "name": "Fel Spell_45.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_46.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/1117cb65868d8021b0346a1324dd736a0d0536d58d62529f4db82de929355ebe_Fel Spell_46.png",
+          "name": "Fel Spell_46.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_47.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_47.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/94a263076645ef9a6c7f0fdd759d50925933c14042cb582376364d80ce83515c_Fel Spell_47.png",
+          "name": "Fel Spell_47.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_48.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_48.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/4ee527ec854c2223a785c499518f5b3b304e50595fea162d77d71573062e9323_Fel Spell_48.png",
+          "name": "Fel Spell_48.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_49.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_49.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/4800cfed7fedfa0dde446b7e8f74006177e0d42c048ae4c873422fc04556a3a7_Fel Spell_49.png",
+          "name": "Fel Spell_49.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/af1ae991774cfcafb8eb092a62593555ec7e08f50535ee728f3b49b5e82dfb1a_Fel Spell_5.png",
+          "name": "Fel Spell_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_50.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/0ec24227e3825cc8c278ee61e8061800dc89b1b7585cd0977eb4075d5e8c1352_Fel Spell_50.png",
+          "name": "Fel Spell_50.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_51.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_51.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/56609b2323fac330d2b3197432ca582b364a622b509394a745dd3449fcf56544_Fel Spell_51.png",
+          "name": "Fel Spell_51.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_52.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/5345e0a69bbca25b9598414b34836e2af913a88fb851d349efc2c2c3d0965b2c_Fel Spell_52.png",
+          "name": "Fel Spell_52.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_53.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_53.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/0a3cdf1b8c45b87f160defaf64993be6a92b7fec8f2dd58c15b6d1d54369eae2_Fel Spell_53.png",
+          "name": "Fel Spell_53.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_54.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/66bb06efc4a9f489e26ccb39865b26aad8d97bde7d14953adfc42812f8e80313_Fel Spell_54.png",
+          "name": "Fel Spell_54.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_55.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_55.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/b117945bd234806b333b9e064c2d6cb6907e25587c08214c7aaf5bd95c33eab4_Fel Spell_55.png",
+          "name": "Fel Spell_55.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_56.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_56.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/48be100e7159e77e9a80789bdde629e9213158cd5546e029cda9faee5de2f019_Fel Spell_56.png",
+          "name": "Fel Spell_56.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_57.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_57.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/0eedfaa2c061364d2b0070a10c4eb5a63d4418a5556ca9274014d3404affea09_Fel Spell_57.png",
+          "name": "Fel Spell_57.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_58.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_58.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/a534b5ce77455182c6ecfb2f0d60143dc6fc2088ca2bacdbb8489206cd2e09e7_Fel Spell_58.png",
+          "name": "Fel Spell_58.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_59.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_59.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/2adec5bedda67893b631f2272b3e410ce28ccec3488c66ed8c56339670ee8e3c_Fel Spell_59.png",
+          "name": "Fel Spell_59.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/4e44cf9638e6f63cb75a6672fa265ae80b19312bb405d3f0106c700a282eff81_Fel Spell_6.png",
+          "name": "Fel Spell_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_60.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_60.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/f5bd1213676e0a28121b92f79b9e2cbf4d8bd05765f13382f2919625beffddba_Fel Spell_60.png",
+          "name": "Fel Spell_60.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_61.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_61.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/043918d1521f8902f9bfd0266c561820a6c227e1e610da468a99daa383afae3c_Fel Spell_61.png",
+          "name": "Fel Spell_61.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_62.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_62.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/92f0d76a20aceaa9ad5f7476a65302c4e6bb2b9c572a73ffdc4301a6c28482e4_Fel Spell_62.png",
+          "name": "Fel Spell_62.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_63.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_63.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/06c87cda1e7746b7147374f25edef5fdf8e935300ee231652a028cd5b0e9000d_Fel Spell_63.png",
+          "name": "Fel Spell_63.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_64.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/5dc693ab50064e9c87e5ec54dd49b14c5777d33c7ded2408465760f6aae2c673_Fel Spell_64.png",
+          "name": "Fel Spell_64.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_65.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_65.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/8893027d7180f27ae0224b91bd7ea8baa7158b8733b51226ea2956c2fb7fd0a8_Fel Spell_65.png",
+          "name": "Fel Spell_65.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_66.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_66.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/eca40cb693d07717c71f7e6516c696b51223dd85d610aaaef1b71689d8f3cf10_Fel Spell_66.png",
+          "name": "Fel Spell_66.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_67.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_67.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/5da7bd443ee4eb3217253c7f2efb88d7a3adfc19e846ab05c7879e94af1abf7b_Fel Spell_67.png",
+          "name": "Fel Spell_67.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_68.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_68.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/4ca3aeb8789fdec93780075424e482c867d4f0ab9d4bbc3924bff802740bfe51_Fel Spell_68.png",
+          "name": "Fel Spell_68.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_69.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_69.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/5d10fb94c205551de9b293036345f465bc9b48208fccc87e6a9b1ba00e57d758_Fel Spell_69.png",
+          "name": "Fel Spell_69.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/6008c090a0f27884f80769b13a4836851afd24081b73adc34c140788f00244f0_Fel Spell_7.png",
+          "name": "Fel Spell_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_70.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_70.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/96879a79478a19c78bf8ad11a9e9969dd6170805dd1e38677e4ed22a1784c15b_Fel Spell_70.png",
+          "name": "Fel Spell_70.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_71.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_71.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/384f7cd1a195ccd0e223b8c624386cabf1bace83df7961f3d87f19fa9de1a04f_Fel Spell_71.png",
+          "name": "Fel Spell_71.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_72.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_72.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/a163bf081e315c88be6301f175868a76b7e2c1fcf9272684d42c5e73ae5ed384_Fel Spell_72.png",
+          "name": "Fel Spell_72.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_73.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_73.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/0a1ac6cae722c70ef9f4f4a93ae8dc45d6c728572d8cce979e6a56622282b71d_Fel Spell_73.png",
+          "name": "Fel Spell_73.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_74.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_74.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/f2ac4930feeb6bef4347c1a45595dbc1a579795472b65bd9a7762eb7dbbe85bf_Fel Spell_74.png",
+          "name": "Fel Spell_74.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_75.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_75.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/d39ef005b97fb957dc2a4aadfc31fe0a8cec6fd24d11a3e228059e7791d8b8c6_Fel Spell_75.png",
+          "name": "Fel Spell_75.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_76.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_76.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/bcf8ef61b85695143871b445195197a5658f4d1378f1164a13c09291e268897f_Fel Spell_76.png",
+          "name": "Fel Spell_76.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_77.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_77.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/9f477d3aa429035ce43a8d79fa823fe4e6d4e29c4799043e1ad81943709e351e_Fel Spell_77.png",
+          "name": "Fel Spell_77.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_78.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_78.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/930af11569e31736510f6b1c835df48e7d60dc3fdfcb37c75fe8407a5673d405_Fel Spell_78.png",
+          "name": "Fel Spell_78.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_79.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_79.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/414b27be32506724be929035bfc61a2466801e55cbcc714986fdeed2943be5dd_Fel Spell_79.png",
+          "name": "Fel Spell_79.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/838044aebb82180294182b00f5aa59d2317d4a1e94c508d998901d3eecbab1da_Fel Spell_8.png",
+          "name": "Fel Spell_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_80.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_80.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/1eb00b30bfc22a3427e9c4c00e4cd6a37d084dbcca0e36dcd0b1044e17c8818e_Fel Spell_80.png",
+          "name": "Fel Spell_80.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_81.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_81.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/061d05a579c58239acdd8eee73e9929f0e5373909d6b128c0dc35099959749d2_Fel Spell_81.png",
+          "name": "Fel Spell_81.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_82.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_82.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/232b2dd3a54db132038c4ca71590511fb07ccedc2ecce8db6d2968a2ca15331d_Fel Spell_82.png",
+          "name": "Fel Spell_82.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_83.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_83.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/f9dd6eaf3f7c9130002c832ff6ba638c71597f03247af4006d730a736886943c_Fel Spell_83.png",
+          "name": "Fel Spell_83.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_84.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_84.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/e1fb458ddd889be68d0d23df95ca5314b4e6fb878c89bc25b030dee9e9c3e0a1_Fel Spell_84.png",
+          "name": "Fel Spell_84.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_85.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_85.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/cea915f56495df7d61f9df65e35ea046d5d2576de15d601828769403f4690cac_Fel Spell_85.png",
+          "name": "Fel Spell_85.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_86.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_86.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/ebf59b5259ce2aa95449840540cad931c2e5fbf2e888ac83bae68d9f14dbb120_Fel Spell_86.png",
+          "name": "Fel Spell_86.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_87.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_87.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/f12f2396ae36cacfc1717b03ad2c326a179de81e212326c3236a923123a625bf_Fel Spell_87.png",
+          "name": "Fel Spell_87.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_88.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_88.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/45faac4b69137e3a08f33d3512164343332d407f74b961b9f8401a55957f8ecd_Fel Spell_88.png",
+          "name": "Fel Spell_88.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_89.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_89.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/bec00c642615f29f54b530e734b0d61c6304877c4dd191c7905f3635a218b216_Fel Spell_89.png",
+          "name": "Fel Spell_89.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/e077ba7aa685567185a20a7441b4358f1055ec9c1dfe7d1421e5f24f86e81d03_Fel Spell_9.png",
+          "name": "Fel Spell_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_90.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_90.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/b54b39c7db4bf58274efa76d6427d63a9ea341118e84f34dba9d05ac5d3f6939_Fel Spell_90.png",
+          "name": "Fel Spell_90.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fel Spell_91.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fel Spell_91.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/be29ff7e4e9e119ee0ba703ac59585bb81dfab8e0cb377ef7d532d79da2b464f_Fel Spell_91.png",
+          "name": "Fel Spell_91.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -5385,6 +6568,21 @@
           "x": 1057,
           "y": 241,
           "zOrder": 114,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "FelSpell",
+          "persistentUuid": "101aa13b-790f-4ddc-88e9-546210af7775",
+          "width": 0,
+          "x": 1049,
+          "y": 641,
+          "zOrder": 115,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -17404,6 +18602,1577 @@
             "debugMode": false,
             "texture": ""
           }
+        },
+        {
+          "assetStoreId": "fd77db6605d3f5818406fa6ca53d66b0eacfbf63f9d601632c690401feaf4c30",
+          "name": "FelSpell",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_26.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_29.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_30.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_31.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_32.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_33.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_34.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_35.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_36.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_37.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_38.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_39.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_40.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_41.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_42.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_43.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_44.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_45.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_46.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_47.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_48.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_49.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_50.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_51.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_52.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_53.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_54.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_55.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_56.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_57.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_58.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_59.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_60.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_61.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_62.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_63.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_64.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_65.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_66.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_67.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_68.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_69.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_70.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_71.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_72.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_73.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_74.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_75.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_76.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_77.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_78.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_79.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_80.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_81.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_82.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_83.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_84.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_85.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_86.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_87.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_88.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_89.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_90.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Fel Spell_91.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
