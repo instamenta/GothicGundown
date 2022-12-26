@@ -6291,6 +6291,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Effects Pack/be29ff7e4e9e119ee0ba703ac59585bb81dfab8e0cb377ef7d532d79da2b464f_Fel Spell_91.png",
           "name": "Fel Spell_91.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -6580,8 +6589,8 @@
           "name": "FelSpell",
           "persistentUuid": "101aa13b-790f-4ddc-88e9-546210af7775",
           "width": 0,
-          "x": 1049,
-          "y": 641,
+          "x": 1029,
+          "y": 847,
           "zOrder": 115,
           "numberProperties": [],
           "stringProperties": [],
@@ -8345,7 +8354,47 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Glow",
+              "name": "SoulCount1",
+              "doubleParameters": {
+                "distance": 5,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "30;255;0"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Glow",
+              "name": "SoulCount2",
+              "doubleParameters": {
+                "distance": 13,
+                "innerStrength": 2,
+                "outerStrength": 3
+              },
+              "stringParameters": {
+                "color": "0;255;42"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Glow",
+              "name": "SoulCount3",
+              "doubleParameters": {
+                "distance": 20,
+                "innerStrength": 3,
+                "outerStrength": 4
+              },
+              "stringParameters": {
+                "color": "0;179;29"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "Health",
@@ -16732,6 +16781,8 @@
               "type": "ShakeObject::ShakeObject_PositionAngleScale"
             },
             {
+              "name": "TopDownMovement",
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 1250,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -16741,9 +16792,7 @@
               "ignoreDefaultControls": true,
               "maxSpeed": 350,
               "movementAngleOffset": 0,
-              "name": "TopDownMovement",
               "rotateObject": false,
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "viewpoint": "TopDown"
             },
             {
@@ -20173,6 +20222,68 @@
               ]
             }
           ]
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 0,
+          "emitterForceMax": 0,
+          "emitterForceMin": 0,
+          "flow": 150,
+          "maxParticleNb": 300,
+          "name": "ZombieSoulEmitter",
+          "particleAlpha1": 100,
+          "particleAlpha2": 50,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 150,
+          "particleAngle2": 150,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 6,
+          "particleBlue2": 255,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 0.53,
+          "particleLifeTimeMin": 0.5,
+          "particleRed1": 0,
+          "particleRed2": 255,
+          "particleSize1": 100,
+          "particleSize2": 0,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": -1,
+          "textureParticleName": "NewFile-1.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 0,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 150,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 700,
+              "name": "Pathfinding",
+              "rotateObject": true,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ]
         }
       ],
       "events": [
@@ -20244,6 +20355,36 @@
                 "BigZombie",
                 "=",
                 "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "EnableEffect"
+              },
+              "parameters": [
+                "BigZombie",
+                "\"SoulCount1\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EnableEffect"
+              },
+              "parameters": [
+                "BigZombie",
+                "\"SoulCount2\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EnableEffect"
+              },
+              "parameters": [
+                "BigZombie",
+                "\"SoulCount3\"",
+                "no"
               ]
             }
           ]
@@ -22004,6 +22145,26 @@
                 ""
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "ZombieSoulEmitter",
+                    "BigZombie.CenterX()",
+                    "BigZombie.CenterY()",
+                    ""
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -22026,6 +22187,279 @@
               "parameters": [
                 "BloodSplatterAnimated",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "ZombieSoulEmitter",
+                "Pathfinding",
+                "",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "BigZombie",
+                "ZombieSoulEmitter",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "ZombieSoulEmitter",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount1\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount3\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount1\"",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "Tween",
+                    "\"ZombieResizer\"",
+                    "2.5",
+                    "2.5",
+                    "\"bounce\"",
+                    "100",
+                    "",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount1\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount1\"",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\"",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "Tween",
+                    "\"ZombieResizer\"",
+                    "3",
+                    "3",
+                    "\"bounce\"",
+                    "100",
+                    "",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\"",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount3\"",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "Tween",
+                    "\"ZombieResizer\"",
+                    "3.5",
+                    "3.5",
+                    "\"bounce\"",
+                    "100",
+                    "",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount2\"",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "EnableEffect"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "\"SoulCount3\"",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "Tween",
+                    "\"ZombieResizer\"",
+                    "4",
+                    "4",
+                    "\"bounce\"",
+                    "100",
+                    "",
+                    "yes"
+                  ]
+                }
               ]
             }
           ]
@@ -22082,6 +22516,10 @@
         {
           "name": "MagneticEffect",
           "type": "MagneticEffect::MagneticEffect"
+        },
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
         },
         {
           "name": "ShakeObject_PositionAngleScale",
