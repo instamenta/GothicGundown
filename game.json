@@ -4842,6 +4842,272 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Particle/69afaa5b1d2b5859f83e279c7ac11632e908bcb1bded02fe3b65c17f572eab69_Blood Spot_Small.png",
           "name": "Blood Spot_Small.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Brain_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "76977a3abe9b9215231291e4eaade73e0b35ec3d7704c7ed99a0bfffee083802_Brain_No Shadow.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Body Icons/76977a3abe9b9215231291e4eaade73e0b35ec3d7704c7ed99a0bfffee083802_Brain_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Stomach_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f084435b04754917da41bc9a51384c36467e10ba324751e769ab536d1f376bc6_Stomach_No Shadow.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Body Icons/f084435b04754917da41bc9a51384c36467e10ba324751e769ab536d1f376bc6_Stomach_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Lungs_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2dc495f52775cd5b2a31433dedfd597e5b092130266e019c3f0260591b13e6d4_Lungs_No Shadow.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Body Icons/2dc495f52775cd5b2a31433dedfd597e5b092130266e019c3f0260591b13e6d4_Lungs_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Heart_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "30b36f403b1456be104373a9cc2ee337fa18c28801c8bbb3369a5f58292bd21d_Heart_No Shadow.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Body Icons/30b36f403b1456be104373a9cc2ee337fa18c28801c8bbb3369a5f58292bd21d_Heart_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Morsel_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "076d1989f9a833e5295515d29fb3285a53448df8f754a1a7bb773baf5144cdb5_Morsel_No Shadow.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Food/076d1989f9a833e5295515d29fb3285a53448df8f754a1a7bb773baf5144cdb5_Morsel_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ham_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6b6cc42dcc9169347bae9f337c6ec4aeb86e1bfd11172c477da6bc9545b23952_Ham_No Shadow.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Food/6b6cc42dcc9169347bae9f337c6ec4aeb86e1bfd11172c477da6bc9545b23952_Ham_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sirloin Steak_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9aaa650932189ca06b8865af2f4fa531278f807b57d72c363abf6e506ecf9bc7_Sirloin Steak_No Shadow.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Food/9aaa650932189ca06b8865af2f4fa531278f807b57d72c363abf6e506ecf9bc7_Sirloin Steak_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spinning Bone_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "46d2dfac27f1b2be0ed12dd64c1fdbc9139539c38f8bab674c19da1b6946d7cc_Spinning Bone_1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Skeleton/46d2dfac27f1b2be0ed12dd64c1fdbc9139539c38f8bab674c19da1b6946d7cc_Spinning Bone_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "-18.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4954,6 +5220,171 @@
           "x": 635,
           "y": 452,
           "zOrder": 103,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "0bff5078-e750-4454-a15c-58511cbc8fd6",
+          "width": 0,
+          "x": 1265,
+          "y": 471,
+          "zOrder": 104,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "1f2114ee-99d6-446f-8423-7905db1d811d",
+          "width": 0,
+          "x": 1016,
+          "y": 669,
+          "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "72cb58f2-25ec-4405-81e1-c5580be62900",
+          "width": 0,
+          "x": 511,
+          "y": 756,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "5e95ba54-0560-4696-8509-6b603ecb72da",
+          "width": 0,
+          "x": 133,
+          "y": 592,
+          "zOrder": 107,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "81191426-cb35-403e-9c23-48d4b69d2bc3",
+          "width": 0,
+          "x": 97,
+          "y": 356,
+          "zOrder": 108,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "ed99a029-8bff-4e73-bdd8-8a46dc154cf4",
+          "width": 0,
+          "x": 347,
+          "y": 186,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "aa618457-5bdb-4710-8e03-910e1e80bf64",
+          "width": 0,
+          "x": 753,
+          "y": 194,
+          "zOrder": 110,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "23c3216c-e1b8-4ebd-a3f0-974896aa88b8",
+          "width": 0,
+          "x": 761,
+          "y": 935,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "bdc27359-4621-4444-9a34-5ac25e1c98e8",
+          "width": 0,
+          "x": 259,
+          "y": 951,
+          "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "765b7c01-9d00-46a9-a8cb-b1fcc94e30aa",
+          "width": 0,
+          "x": 17,
+          "y": 87,
+          "zOrder": 113,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "827c80e4-b3f0-4e86-a4fa-6adc054c771d",
+          "width": 0,
+          "x": 1057,
+          "y": 241,
+          "zOrder": 114,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6687,7 +7118,44 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Health",
+              "type": "Health::Health",
+              "Health": 100,
+              "CurrentHealth": 0,
+              "MaxHealth": 100,
+              "DamageCooldown": 0,
+              "IsHealthJustDamaged": false,
+              "HealthRegenRate": 0,
+              "HealthRegenDelay": 0,
+              "AllowOverHealing": false,
+              "HitAtLeastOnce": false,
+              "IsJustHealed": false,
+              "CurrentShieldPoints": 0,
+              "MaxShieldPoints": 0,
+              "ShieldDuration": 5,
+              "ShieldRegenRate": 0,
+              "BlockExcessDamage": false,
+              "ShieldRegenDelay": 0,
+              "IsShieldJustDamaged": false,
+              "ChanceToDodge": 0,
+              "DamageToBeApplied": 0,
+              "FlatDamageReduction": 0,
+              "PercentDamageReduction": 0,
+              "IsJustDodged": false,
+              "ShieldDamageTaken": 0,
+              "HealToBeApplied": 0
+            },
+            {
+              "name": "ShakeObject_PositionAngleScale",
+              "type": "ShakeObject::ShakeObject_PositionAngleScale"
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "Idle",
@@ -6698,72 +7166,148 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Big Zombie_Idle_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.358263851845102
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.428125799518742
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.595335006713867,
+                            "y": 7.150043964385986
+                          },
+                          {
+                            "x": 24.45423698425293,
+                            "y": 7.289770603179932
+                          },
+                          {
+                            "x": 24.73369026184082,
+                            "y": 34
+                          },
+                          {
+                            "x": 6.848759651184082,
+                            "y": 34
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Big Zombie_Idle_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.358263851845102
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.428125799518742
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.595335006713867,
+                            "y": 7.150043964385986
+                          },
+                          {
+                            "x": 24.45423698425293,
+                            "y": 7.289770603179932
+                          },
+                          {
+                            "x": 24.73369026184082,
+                            "y": 34
+                          },
+                          {
+                            "x": 6.848759651184082,
+                            "y": 34
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Big Zombie_Idle_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.358263851845102
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.428125799518742
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.595335006713867,
+                            "y": 7.150043964385986
+                          },
+                          {
+                            "x": 24.45423698425293,
+                            "y": 7.289770603179932
+                          },
+                          {
+                            "x": 24.73369026184082,
+                            "y": 34
+                          },
+                          {
+                            "x": 6.848759651184082,
+                            "y": 34
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Big Zombie_Idle_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.358263851845102
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.428125799518742
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.595335006713867,
+                            "y": 7.150043964385986
+                          },
+                          {
+                            "x": 24.45423698425293,
+                            "y": 7.289770603179932
+                          },
+                          {
+                            "x": 24.73369026184082,
+                            "y": 34
+                          },
+                          {
+                            "x": 6.848759651184082,
+                            "y": 34
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -6778,72 +7322,148 @@
                   "timeBetweenFrames": 0.125,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Big Zombie_Run_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.358263851845102
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.428125799518742
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.595335006713867,
+                            "y": 7.150043964385986
+                          },
+                          {
+                            "x": 24.45423698425293,
+                            "y": 7.289770603179932
+                          },
+                          {
+                            "x": 24.73369026184082,
+                            "y": 34
+                          },
+                          {
+                            "x": 6.848759651184082,
+                            "y": 34
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Big Zombie_Run_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.358263851845102
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.428125799518742
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.595335006713867,
+                            "y": 7.150043964385986
+                          },
+                          {
+                            "x": 24.45423698425293,
+                            "y": 7.289770603179932
+                          },
+                          {
+                            "x": 24.73369026184082,
+                            "y": 34
+                          },
+                          {
+                            "x": 6.848759651184082,
+                            "y": 34
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Big Zombie_Run_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.358263851845102
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.428125799518742
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.595335006713867,
+                            "y": 7.150043964385986
+                          },
+                          {
+                            "x": 24.45423698425293,
+                            "y": 7.289770603179932
+                          },
+                          {
+                            "x": 24.73369026184082,
+                            "y": 34
+                          },
+                          {
+                            "x": 6.848759651184082,
+                            "y": 34
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Big Zombie_Run_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.358263851845102
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.280267009996386,
+                        "y": 23.428125799518742
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8.595335006713867,
+                            "y": 7.150043964385986
+                          },
+                          {
+                            "x": 24.45423698425293,
+                            "y": 7.289770603179932
+                          },
+                          {
+                            "x": 24.73369026184082,
+                            "y": 34
+                          },
+                          {
+                            "x": 6.848759651184082,
+                            "y": 34
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -14788,13 +15408,13 @@
               "folded": true,
               "name": "VampireCameraZoom",
               "type": "number",
-              "value": 2
+              "value": 2.5
             },
             {
               "folded": true,
               "name": "VampireLight",
               "type": "number",
-              "value": 150
+              "value": 200
             },
             {
               "folded": true,
@@ -15605,6 +16225,1128 @@
             "debugMode": false,
             "texture": ""
           }
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 30,
+          "emitterForceMax": 65,
+          "emitterForceMin": 20,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "BrainParticleEmitter",
+          "particleAlpha1": 240,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 60,
+          "particleAngle2": 90,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 105,
+          "particleBlue2": 0,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 1.7,
+          "particleLifeTimeMin": 1.5,
+          "particleRed1": 107,
+          "particleRed2": 3,
+          "particleSize1": 100,
+          "particleSize2": 90,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 1,
+          "textureParticleName": "76977a3abe9b9215231291e4eaade73e0b35ec3d7704c7ed99a0bfffee083802_Brain_No Shadow.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 75,
+          "emitterForceMin": 20,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "StomachParticleEmitter",
+          "particleAlpha1": 245,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 60,
+          "particleAngle2": 90,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 105,
+          "particleBlue2": 17,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 1.8,
+          "particleLifeTimeMin": 1.5,
+          "particleRed1": 107,
+          "particleRed2": 0,
+          "particleSize1": 90,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 1,
+          "textureParticleName": "f084435b04754917da41bc9a51384c36467e10ba324751e769ab536d1f376bc6_Stomach_No Shadow.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 4,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 75,
+          "emitterForceMin": 20,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "LungParticleEmitter",
+          "particleAlpha1": 245,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 60,
+          "particleAngle2": 90,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 105,
+          "particleBlue2": 17,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 1.8,
+          "particleLifeTimeMin": 1.5,
+          "particleRed1": 107,
+          "particleRed2": 0,
+          "particleSize1": 90,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 1,
+          "textureParticleName": "2dc495f52775cd5b2a31433dedfd597e5b092130266e019c3f0260591b13e6d4_Lungs_No Shadow.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 4,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 65,
+          "emitterForceMin": 15,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "HeartParticleEmitter",
+          "particleAlpha1": 245,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 60,
+          "particleAngle2": 90,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 105,
+          "particleBlue2": 17,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 1.8,
+          "particleLifeTimeMin": 1.5,
+          "particleRed1": 107,
+          "particleRed2": 0,
+          "particleSize1": 90,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 1,
+          "textureParticleName": "30b36f403b1456be104373a9cc2ee337fa18c28801c8bbb3369a5f58292bd21d_Heart_No Shadow.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 4,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 65,
+          "emitterForceMin": 45,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "MeatParticleEmitter1",
+          "particleAlpha1": 245,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 60,
+          "particleAngle2": 90,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 105,
+          "particleBlue2": 17,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 1.8,
+          "particleLifeTimeMin": 1.5,
+          "particleRed1": 107,
+          "particleRed2": 0,
+          "particleSize1": 90,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 1,
+          "textureParticleName": "076d1989f9a833e5295515d29fb3285a53448df8f754a1a7bb773baf5144cdb5_Morsel_No Shadow.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 4,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 75,
+          "emitterForceMin": 25,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "MeatParticleEmitter2",
+          "particleAlpha1": 245,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 60,
+          "particleAngle2": 90,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 105,
+          "particleBlue2": 17,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 1.8,
+          "particleLifeTimeMin": 1.5,
+          "particleRed1": 107,
+          "particleRed2": 0,
+          "particleSize1": 90,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 1,
+          "textureParticleName": "6b6cc42dcc9169347bae9f337c6ec4aeb86e1bfd11172c477da6bc9545b23952_Ham_No Shadow.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 4,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 75,
+          "emitterForceMin": 20,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "MeatParticleEmitter3",
+          "particleAlpha1": 245,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 60,
+          "particleAngle2": 90,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 105,
+          "particleBlue2": 17,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 1.8,
+          "particleLifeTimeMin": 1.5,
+          "particleRed1": 107,
+          "particleRed2": 0,
+          "particleSize1": 90,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 1,
+          "textureParticleName": "9aaa650932189ca06b8865af2f4fa531278f807b57d72c363abf6e506ecf9bc7_Sirloin Steak_No Shadow.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 4,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 65,
+          "emitterForceMin": 45,
+          "flow": 100,
+          "maxParticleNb": 300,
+          "name": "BonesParticleEmitter",
+          "particleAlpha1": 255,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 80,
+          "particleAngle2": 110,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 255,
+          "particleBlue2": 80,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 80,
+          "particleLifeTimeMax": 2.3,
+          "particleLifeTimeMin": 2,
+          "particleRed1": 255,
+          "particleRed2": 80,
+          "particleSize1": 90,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tags": "",
+          "tank": 4,
+          "textureParticleName": "46d2dfac27f1b2be0ed12dd64c1fdbc9139539c38f8bab674c19da1b6946d7cc_Spinning Bone_1.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 4,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 85,
+          "emitterForceMin": 45,
+          "flow": 150,
+          "maxParticleNb": 300,
+          "name": "BloodParticleEmitter1",
+          "particleAlpha1": 204,
+          "particleAlpha2": 100,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 50,
+          "particleAngle2": 100,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 51,
+          "particleBlue2": 73,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 51,
+          "particleGreen2": 73,
+          "particleLifeTimeMax": 1,
+          "particleLifeTimeMin": 0.6,
+          "particleRed1": 255,
+          "particleRed2": 73,
+          "particleSize1": 100,
+          "particleSize2": 20,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 2,
+          "rendererParam2": 1,
+          "rendererType": "Point",
+          "tags": "",
+          "tank": 70,
+          "textureParticleName": "",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 360,
+          "emitterForceMax": 85,
+          "emitterForceMin": 45,
+          "flow": 150,
+          "maxParticleNb": 300,
+          "name": "BloodParticleEmitter2",
+          "particleAlpha1": 204,
+          "particleAlpha2": 100,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 5,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 51,
+          "particleBlue2": 73,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 51,
+          "particleGreen2": 73,
+          "particleLifeTimeMax": 1,
+          "particleLifeTimeMin": 0.6,
+          "particleRed1": 255,
+          "particleRed2": 73,
+          "particleSize1": 100,
+          "particleSize2": 20,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 2,
+          "rendererParam2": 1,
+          "rendererType": "Line",
+          "tags": "",
+          "tank": 70,
+          "textureParticleName": "",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "BloodSplatterAnimated",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.05,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "-18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 48.769263698630134,
+                        "y": 49.18022808963305
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 40.75556564331055,
+                            "y": 36.64597702026367
+                          },
+                          {
+                            "x": 65.61857604980469,
+                            "y": 35.207618713378906
+                          },
+                          {
+                            "x": 61.508995056152344,
+                            "y": 65.41310119628906
+                          },
+                          {
+                            "x": 39.31720733642578,
+                            "y": 66.44049072265625
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -15621,17 +17363,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "value": "ZoomCamera"
-              },
-              "parameters": [
-                "",
-                "2.5",
-                "",
-                ""
-              ]
-            },
             {
               "type": {
                 "value": "Opacity"
@@ -15677,6 +17408,16 @@
               "parameters": [
                 "Player",
                 "\"VampireStateTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "BigZombie",
+                "=",
+                "2"
               ]
             }
           ]
@@ -15758,7 +17499,7 @@
               "parameters": [
                 "",
                 "",
-                "ToString(Player.Variable(VampireVisionColor))+ \";43;43\""
+                "ToString(Player.Variable(VampireVisionColor)) + \";\" + ToString(Player.Variable(VampireVisionColor)/5) + \";\" +\nToString(Player.Variable(VampireVisionColor)/5)"
               ]
             },
             {
@@ -15790,6 +17531,17 @@
                 "TopDownMovement",
                 "=",
                 "Player.Variable(PlayerSpeed)"
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "Player.Variable(VampireCameraZoom)",
+                "",
+                ""
               ]
             }
           ]
@@ -16680,11 +18432,26 @@
               "parameters": [
                 "Player",
                 "Tween",
+                "\"CameraZoom\"",
+                "VampireCameraZoom",
+                "2",
+                "\"linear\"",
+                "350",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
                 "\"VisionColor\"",
                 "VampireVisionColor",
                 "255",
                 "\"linear\"",
-                "150",
+                "200",
                 ""
               ]
             },
@@ -16699,7 +18466,7 @@
                 "VampireLight",
                 "300",
                 "\"linear\"",
-                "150",
+                "200",
                 ""
               ]
             },
@@ -16740,6 +18507,28 @@
               "parameters": [
                 "",
                 "0.6"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "WhiteShotDMG",
+                "=",
+                "40"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "BloodShotDMG",
+                "=",
+                "20"
               ]
             }
           ],
@@ -16820,7 +18609,7 @@
                 "Tween",
                 "\"LightSize\"",
                 "VampireLight",
-                "150",
+                "200",
                 "\"linear\"",
                 "250",
                 ""
@@ -16851,6 +18640,21 @@
                 "\"PlayerMaxSpeed\"",
                 "PlayerMaxSpeed",
                 "350",
+                "\"linear\"",
+                "150",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"CameraZoom\"",
+                "VampireCameraZoom",
+                "2.5",
                 "\"linear\"",
                 "150",
                 ""
@@ -16904,6 +18708,28 @@
               "parameters": [
                 "",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "WhiteShotDMG",
+                "=",
+                "20"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "BloodShotDMG",
+                "=",
+                "10"
               ]
             }
           ]
@@ -16964,6 +18790,364 @@
                 "yes",
                 "yes",
                 "yes",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "WhiteBullet",
+                "BigZombie",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.07"
+              ]
+            },
+            {
+              "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "BigZombie",
+                "Health",
+                "Player.Variable(WhiteShotDMG)",
+                "no",
+                "no",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "WhiteBullet",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "BloodBullet",
+                "BigZombie",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.07"
+              ]
+            },
+            {
+              "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "BigZombie",
+                "Health",
+                "Player.Variable(BloodShotDMG)",
+                "no",
+                "no",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "BloodBullet",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "BloodBullet",
+                    "BigZombie",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "WhiteBullet",
+                    "BigZombie",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ShakeObject::ShakeObject_PositionAngleScale::ShakeObject_PositionAngleScale"
+              },
+              "parameters": [
+                "BigZombie",
+                "ShakeObject_PositionAngleScale",
+                "0.3",
+                "5",
+                "2",
+                "3",
+                "2",
+                "0.05",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "BigZombie",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "BigZombie",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "BrainParticleEmitter",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "StomachParticleEmitter",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "BrainParticleEmitter",
+                "=",
+                "-90"
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "LungParticleEmitter",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "HeartParticleEmitter",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "MeatParticleEmitter1",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "MeatParticleEmitter2",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "BonesParticleEmitter",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "MeatParticleEmitter3",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "BloodParticleEmitter2",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "BloodParticleEmitter1",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "BloodSplatterAnimated",
+                "BigZombie.CenterX()",
+                "BigZombie.CenterY()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimationEnded2"
+              },
+              "parameters": [
+                "BloodSplatterAnimated"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "BloodSplatterAnimated",
                 ""
               ]
             }
