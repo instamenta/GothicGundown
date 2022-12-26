@@ -6096,21 +6096,51 @@
                   "timeBetweenFrames": 0.025,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "Anime Sword.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Handle",
+                          "x": 6.000642123287671,
+                          "y": 27.206123691715607
+                        },
+                        {
+                          "name": "Top",
+                          "x": 6.1855731598318435,
+                          "y": 2.6102323401464176
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 6.000642123287671,
+                        "y": 13.582834609567302
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 5.938999228281517,
+                        "y": 13.39790357302313
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 30
+                          },
+                          {
+                            "x": 0,
+                            "y": 30
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -18241,6 +18271,15 @@
             },
             {
               "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "DaggerLight",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "SetObjectVariableAsBoolean"
               },
               "parameters": [
@@ -18281,7 +18320,7 @@
                 "Player",
                 "\"DaggerThrowTimer\"",
                 ">",
-                "0.4"
+                "0.25"
               ]
             },
             {
@@ -18348,6 +18387,24 @@
                 "AnimeSword",
                 "\"Return\"",
                 "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "Lighting::SetColor"
+              },
+              "parameters": [
+                "DaggerLight",
+                "\"0;246;255\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Lighting::SetRadius"
+              },
+              "parameters": [
+                "DaggerLight",
+                "60"
               ]
             }
           ]
@@ -18452,7 +18509,7 @@
                 "Player",
                 "\"VampireStateTimer\"",
                 ">",
-                "2"
+                "1"
               ]
             }
           ],
@@ -18631,7 +18688,7 @@
                 "Player",
                 "\"VampireStateTimer\"",
                 ">",
-                "2"
+                "1"
               ]
             }
           ],
