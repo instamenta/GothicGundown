@@ -7585,6 +7585,177 @@
         "name": "NewSprite-6.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets/Screen Overlay Effects/debris2 Blood Overlay.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Assets\\Screen Overlay Effects\\debris2 Blood Overlay.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-6-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-5-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-6-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-5-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-5-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-6-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-6-2.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -7877,6 +8048,21 @@
           "x": 1029,
           "y": 847,
           "zOrder": 115,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1113,
+          "layer": "UI",
+          "name": "BloodUI",
+          "persistentUuid": "915d96c9-d1ed-4b92-bf09-a7ad32ee1d72",
+          "width": 1953,
+          "x": -11,
+          "y": -21,
+          "zOrder": 116,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18001,6 +18187,12 @@
               "name": "HitLagState",
               "type": "boolean",
               "value": false
+            },
+            {
+              "folded": true,
+              "name": "BloodUI",
+              "type": "number",
+              "value": 0
             }
           ],
           "effects": [],
@@ -18424,6 +18616,11 @@
                           "name": "Back",
                           "x": 4.033560138859161,
                           "y": 9.819864769504495
+                        },
+                        {
+                          "name": "GunSmoke",
+                          "x": 32.767807215860444,
+                          "y": 13.041781072747218
                         }
                       ],
                       "originPoint": {
@@ -23308,6 +23505,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 470,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -23318,10 +23517,8 @@
               "gridOffsetX": 0,
               "gridOffsetY": 0,
               "maxSpeed": 320,
-              "name": "Pathfinding",
               "rotateObject": true,
-              "smoothingMaxCellGap": 1,
-              "type": "PathfindingBehavior::PathfindingBehavior"
+              "smoothingMaxCellGap": 1
             }
           ],
           "animations": [
@@ -26845,6 +27042,685 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "BloodUI",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "bottomEdgeAnchor": 2,
+              "leftEdgeAnchor": 1,
+              "name": "Anchor",
+              "relativeToOriginalWindowSize": false,
+              "rightEdgeAnchor": 2,
+              "topEdgeAnchor": 1,
+              "type": "AnchorBehavior::AnchorBehavior",
+              "useLegacyBottomAndRightAnchors": true
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Assets\\Screen Overlay Effects\\debris2 Blood Overlay.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "GunEffectAnimation5",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "GunEffectAnimation4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "GunEffectAnimation1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.065,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0.5270540420323202,
+                        "y": 24.39554982642605
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 0.42842541002247436,
+                        "y": 24.296917431975064
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16.899656295776367
+                          },
+                          {
+                            "x": 24.296916961669922,
+                            "y": 17.392807006835938
+                          },
+                          {
+                            "x": 24.099660873413086,
+                            "y": 31.694175720214844
+                          },
+                          {
+                            "x": 0,
+                            "y": 30.90513801574707
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-2-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0.5270540420323202,
+                        "y": 24.39554982642605
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 0.42842541002247436,
+                        "y": 24.296917431975064
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16.899656295776367
+                          },
+                          {
+                            "x": 24.296916961669922,
+                            "y": 17.392807006835938
+                          },
+                          {
+                            "x": 24.099660873413086,
+                            "y": 31.694175720214844
+                          },
+                          {
+                            "x": 0,
+                            "y": 30.90513801574707
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-3-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0.5270540420323202,
+                        "y": 24.39554982642605
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 0.42842541002247436,
+                        "y": 24.296917431975064
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16.899656295776367
+                          },
+                          {
+                            "x": 24.296916961669922,
+                            "y": 17.392807006835938
+                          },
+                          {
+                            "x": 24.099660873413086,
+                            "y": 31.694175720214844
+                          },
+                          {
+                            "x": 0,
+                            "y": 30.90513801574707
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-4-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0.5270540420323202,
+                        "y": 24.39554982642605
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 0.42842541002247436,
+                        "y": 24.296917431975064
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16.899656295776367
+                          },
+                          {
+                            "x": 24.296916961669922,
+                            "y": 17.392807006835938
+                          },
+                          {
+                            "x": 24.099660873413086,
+                            "y": 31.694175720214844
+                          },
+                          {
+                            "x": 0,
+                            "y": 30.90513801574707
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-5-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0.5270540420323202,
+                        "y": 24.39554982642605
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 0.42842541002247436,
+                        "y": 24.296917431975064
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16.899656295776367
+                          },
+                          {
+                            "x": 24.296916961669922,
+                            "y": 17.392807006835938
+                          },
+                          {
+                            "x": 24.099660873413086,
+                            "y": 31.694175720214844
+                          },
+                          {
+                            "x": 0,
+                            "y": 30.90513801574707
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-6-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0.5270540420323202,
+                        "y": 24.39554982642605
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 0.42842541002247436,
+                        "y": 24.296917431975064
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 16.899656295776367
+                          },
+                          {
+                            "x": 24.296916961669922,
+                            "y": 17.392807006835938
+                          },
+                          {
+                            "x": 24.099660873413086,
+                            "y": 31.694175720214844
+                          },
+                          {
+                            "x": 0,
+                            "y": 30.90513801574707
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 15,
+          "emitterForceMax": 15,
+          "emitterForceMin": 5,
+          "flow": 40,
+          "maxParticleNb": 300,
+          "name": "GunSmokeParticleEmitter",
+          "particleAlpha1": 180,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 111,
+          "particleBlue2": 141,
+          "particleGravityX": 0,
+          "particleGravityY": -35,
+          "particleGreen1": 111,
+          "particleGreen2": 141,
+          "particleLifeTimeMax": 1,
+          "particleLifeTimeMin": 0.8,
+          "particleRed1": 111,
+          "particleRed2": 141,
+          "particleSize1": 60,
+          "particleSize2": 10,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Point",
+          "tags": "",
+          "tank": 25,
+          "textureParticleName": "",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 120,
+          "emitterForceMax": 60,
+          "emitterForceMin": 20,
+          "flow": 150,
+          "maxParticleNb": 300,
+          "name": "BloodHoleParticleEmitter",
+          "particleAlpha1": 169,
+          "particleAlpha2": 20,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 0,
+          "particleBlue2": 0,
+          "particleGravityX": 0,
+          "particleGravityY": 25,
+          "particleGreen1": 0,
+          "particleGreen2": 0,
+          "particleLifeTimeMax": 1.4,
+          "particleLifeTimeMin": 0.8,
+          "particleRed1": 255,
+          "particleRed2": 255,
+          "particleSize1": 100,
+          "particleSize2": 60,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 2,
+          "rendererType": "Line",
+          "tags": "",
+          "tank": 60,
+          "textureParticleName": "",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 7,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 28,
+          "emitterForceMax": 25,
+          "emitterForceMin": 15,
+          "flow": 45,
+          "maxParticleNb": 300,
+          "name": "BloodBulletTrailParticleEmitter",
+          "particleAlpha1": 204,
+          "particleAlpha2": 40,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 0,
+          "particleBlue2": 18,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 0,
+          "particleGreen2": 0,
+          "particleLifeTimeMax": 0.9,
+          "particleLifeTimeMin": 0.5,
+          "particleRed1": 255,
+          "particleRed2": 150,
+          "particleSize1": 100,
+          "particleSize2": 40,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Point",
+          "tags": "",
+          "tank": -1,
+          "textureParticleName": "",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -27091,6 +27967,16 @@
                 "Player.Variable(VampireCameraZoom)",
                 "",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Opacity"
+              },
+              "parameters": [
+                "BloodUI",
+                "=",
+                "Player.Variable(BloodUI)"
               ]
             }
           ]
@@ -28523,7 +29409,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Gun Fire & Flip State",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -28762,6 +29647,134 @@
                     "",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "GunEffectAnimation1",
+                    "Gun.PointX(\"Front\")",
+                    "Gun.PointY(\"Front\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "GunSmokeParticleEmitter",
+                    "Gun.PointX(\"Front\")",
+                    "Gun.PointY(\"Front\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Opacity"
+                  },
+                  "parameters": [
+                    "GunEffectAnimation1",
+                    "=",
+                    "170"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "GunEffectAnimation1",
+                    "=",
+                    "Gun.PointX(\"Front\")",
+                    "=",
+                    "Gun.PointY(\"Front\")"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "GunSmokeParticleEmitter",
+                    "=",
+                    "Gun.PointX(\"GunSmoke\")",
+                    "=",
+                    "Gun.PointY(\"GunSmoke\")"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "GunEffectAnimation1",
+                    "=",
+                    "Gun.Angle()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "GunSmokeParticleEmitter",
+                    "=",
+                    "Gun.Angle()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "GunSmokeParticleEmitter",
+                    "=",
+                    "14"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "GunEffectAnimation1",
+                    "=",
+                    "14"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "GunEffectAnimation1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "GunEffectAnimation1",
+                    ""
+                  ]
                 }
               ]
             }
@@ -28773,6 +29786,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "BATS & DAGGER",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -29602,6 +30616,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "VampireState",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -29729,9 +30744,24 @@
                     "Tween",
                     "\"PlayerMaxSpeed\"",
                     "PlayerMaxSpeed",
-                    "450",
+                    "500",
                     "\"linear\"",
                     "150",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectVariableTween2"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Tween",
+                    "\"PlayerMaxSpeed\"",
+                    "BloodUI",
+                    "150",
+                    "\"linear\"",
+                    "350",
                     ""
                   ]
                 },
@@ -29943,6 +30973,21 @@
                 },
                 {
                   "type": {
+                    "value": "Tween::AddObjectVariableTween2"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Tween",
+                    "\"PlayerMaxSpeed\"",
+                    "BloodUI",
+                    "0",
+                    "\"linear\"",
+                    "250",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetObjectVariableAsBoolean"
                   },
                   "parameters": [
@@ -30140,6 +31185,38 @@
                     "WhiteBullet",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "BloodHoleParticleEmitter",
+                    "BigZombie.CenterX()",
+                    "BigZombie.CenterY()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "BloodHoleParticleEmitter",
+                    "=",
+                    "WhiteBullet.Angle()-180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "BloodHoleParticleEmitter",
+                    "=",
+                    "9"
+                  ]
                 }
               ]
             },
@@ -30194,6 +31271,38 @@
                   "parameters": [
                     "BloodBullet",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "BloodHoleParticleEmitter",
+                    "BigZombie.CenterX()",
+                    "BigZombie.CenterY()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "BloodHoleParticleEmitter",
+                    "=",
+                    "BloodBullet.Angle()-180"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "BloodHoleParticleEmitter",
+                    "=",
+                    "9"
                   ]
                 }
               ]
@@ -31014,6 +32123,22 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Readability and UI",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -31049,9 +32174,24 @@
           "visibility": true,
           "cameras": [],
           "effects": []
+        },
+        {
+          "ambientLightColorB": 12,
+          "ambientLightColorG": 6059840,
+          "ambientLightColorR": 16917504,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "UI",
+          "visibility": false,
+          "cameras": [],
+          "effects": []
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior"
+        },
         {
           "name": "Boomerang",
           "type": "Boomerang::Boomerang"
