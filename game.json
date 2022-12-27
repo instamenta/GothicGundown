@@ -27720,7 +27720,64 @@
           "zoneRadius": 3,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "extraBorder": 1500,
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside"
+            }
+          ]
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 28,
+          "emitterForceMax": 25,
+          "emitterForceMin": 15,
+          "flow": 45,
+          "maxParticleNb": 300,
+          "name": "WhiteBulletTrailParticleEmitter",
+          "particleAlpha1": 204,
+          "particleAlpha2": 40,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 162,
+          "particleBlue2": 121,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 162,
+          "particleGreen2": 121,
+          "particleLifeTimeMax": 0.9,
+          "particleLifeTimeMin": 0.5,
+          "particleRed1": 162,
+          "particleRed2": 121,
+          "particleSize1": 100,
+          "particleSize2": 40,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Point",
+          "tags": "",
+          "tank": -1,
+          "textureParticleName": "",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 1500
+            }
+          ]
         }
       ],
       "events": [
@@ -29451,6 +29508,28 @@
                     "150",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "WhiteBulletTrailParticleEmitter",
+                    "Gun.PointX(\"Front\")",
+                    "Gun.PointY(\"Front\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "WhiteBulletTrailParticleEmitter",
+                    "=",
+                    "Gun.Angle()-180"
+                  ]
                 }
               ]
             },
@@ -29491,6 +29570,28 @@
                     "Gun.Angle()",
                     "150",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "BloodBulletTrailParticleEmitter",
+                    "Gun.PointX(\"Front\")",
+                    "Gun.PointY(\"Front\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "BloodBulletTrailParticleEmitter",
+                    "=",
+                    "Gun.Angle()-180"
                   ]
                 }
               ]
@@ -29698,6 +29799,30 @@
                     "Gun.PointX(\"Front\")",
                     "=",
                     "Gun.PointY(\"Front\")"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "BloodBulletTrailParticleEmitter",
+                    "=",
+                    "BloodBullet.CenterX()",
+                    "=",
+                    "BloodBullet.CenterY()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "WhiteBulletTrailParticleEmitter",
+                    "=",
+                    "WhiteBullet.CenterX()",
+                    "=",
+                    "WhiteBullet.CenterY()"
                   ]
                 },
                 {
@@ -31188,6 +31313,15 @@
                 },
                 {
                   "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "WhiteBulletTrailParticleEmitter",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Create"
                   },
                   "parameters": [
@@ -31270,6 +31404,15 @@
                   },
                   "parameters": [
                     "BloodBullet",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "BloodBulletTrailParticleEmitter",
                     ""
                   ]
                 },
