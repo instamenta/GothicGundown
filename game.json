@@ -7756,6 +7756,119 @@
         "name": "NewSprite-6-2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "assets/Assets/desert-eagle-90136.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\Assets\\desert-eagle-90136.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Assets/soul-death.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\Assets\\soul-death.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Assets/soul-steal-02-43483.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\Assets\\soul-steal-02-43483.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Assets/1horror-voice-flashbacks-14469-[AudioTrimmer.com].mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\Assets\\1horror-voice-flashbacks-14469-[AudioTrimmer.com].mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Assets/2horror-voice-flashbacks-14469-[AudioTrimmer.com] (1).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\Assets\\2horror-voice-flashbacks-14469-[AudioTrimmer.com] (1).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4-3.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -23505,9 +23618,10 @@
           "effects": [],
           "behaviors": [
             {
+              "acceleration": 300,
+              "maxSpeed": 300,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
-              "acceleration": 470,
               "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
@@ -23516,7 +23630,6 @@
               "extraBorder": 0,
               "gridOffsetX": 0,
               "gridOffsetY": 0,
-              "maxSpeed": 320,
               "rotateObject": true,
               "smoothingMaxCellGap": 1
             }
@@ -27778,6 +27891,184 @@
               "extraBorder": 1500
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "BatOrbit",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.09,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "BatFlying",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Boomerang",
+              "type": "Boomerang::Boomerang",
+              "ThrowSpeed": 100,
+              "ReturnTime": 1,
+              "Rotation": 360,
+              "ThrowerX": 0,
+              "ThrowerY": 0,
+              "BoomerangReturning": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.085,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -29782,6 +30073,18 @@
                     "=",
                     "170"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "assets\\Assets\\desert-eagle-90136.mp3",
+                    "",
+                    "60",
+                    "RandomInRange(0.7,1.7)"
+                  ]
                 }
               ]
             },
@@ -29911,7 +30214,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "BATS & DAGGER",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -29936,7 +30238,7 @@
                       "parameters": [
                         "",
                         "Player",
-                        "SwitchBlue",
+                        "BatOrbit",
                         "Player.Variable(BatCount)",
                         "50",
                         "25",
@@ -29998,7 +30300,7 @@
                       },
                       "parameters": [
                         "",
-                        "BossIcon",
+                        "BatFlying",
                         "Gun.PointX(\"Front\")",
                         "Gun.PointY(\"Front\")",
                         ""
@@ -30009,7 +30311,7 @@
                         "value": "Boomerang::Boomerang::ThrowBoomerangAngle"
                       },
                       "parameters": [
-                        "BossIcon",
+                        "BatFlying",
                         "Boomerang",
                         "Gun.Angle()",
                         "200",
@@ -30037,6 +30339,16 @@
                         "-",
                         "1"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAngle"
+                      },
+                      "parameters": [
+                        "BatFlying",
+                        "=",
+                        "Gun.Angle()-180"
+                      ]
                     }
                   ]
                 },
@@ -30049,7 +30361,7 @@
                         "value": "Boomerang::Boomerang::TrackingThrower"
                       },
                       "parameters": [
-                        "BossIcon",
+                        "BatFlying",
                         "Boomerang",
                         "Player",
                         ""
@@ -30065,7 +30377,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "BossIcon",
+                        "BatFlying",
                         "Player",
                         "",
                         "",
@@ -30077,7 +30389,7 @@
                         "value": "Boomerang::Boomerang::IsBoomerangReturning"
                       },
                       "parameters": [
-                        "BossIcon",
+                        "BatFlying",
                         "Boomerang",
                         ""
                       ]
@@ -30095,7 +30407,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "BossIcon",
+                        "BatFlying",
                         ""
                       ]
                     },
@@ -30111,6 +30423,86 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Angle"
+                      },
+                      "parameters": [
+                        "BatFlying",
+                        ">",
+                        "90"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Angle"
+                      },
+                      "parameters": [
+                        "BatFlying",
+                        "<",
+                        "-90"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlipY"
+                      },
+                      "parameters": [
+                        "BatFlying",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "Angle"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "<",
+                            "-90"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Angle"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            ">",
+                            "90"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlipY"
+                      },
+                      "parameters": [
+                        "BatFlying",
+                        "yes"
+                      ]
+                    }
+                  ]
                 }
               ],
               "parameters": []
@@ -30120,6 +30512,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Dagger",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -30503,6 +30896,18 @@
                       "parameters": [
                         "ZombieSoulEmitter",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "BloodBulletTrailParticleEmitter",
+                        "assets\\Assets\\soul-death.mp3",
+                        "Gun.Angle()-180",
+                        "70",
+                        "RandomInRange(0.7,1.4)"
                       ]
                     },
                     {
@@ -31254,6 +31659,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Enemies",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -31788,6 +32194,18 @@
                         "\"linear\"",
                         "140",
                         "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "assets\\Assets\\soul-steal-02-43483.mp3",
+                        "",
+                        "80",
+                        "RandomInRange(0.7,1.4)"
                       ]
                     }
                   ]
