@@ -7869,6 +7869,174 @@
         "name": "NewSprite-4-3.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Large-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Large-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1 Impact_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1 Impact_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Projectile/0982e5038b1fc188343ce468a8ad1988b8c6c232487e102169a4589203eb104c_Droid 1 Impact_1.png",
+          "name": "Droid 1 Impact_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1 Impact_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1 Impact_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Projectile/053bf277e59e69df3a7d1333d77b7d0dc865c102515709ae828197b9b2a9d813_Droid 1 Impact_2.png",
+          "name": "Droid 1 Impact_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 1 Impact_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 1 Impact_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Projectile/0285703873b2554ca457bd83f4801b320392ea6f2202736760e240cec2241147_Droid 1 Impact_3.png",
+          "name": "Droid 1 Impact_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3 Impact_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3 Impact_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Projectile/6aaa30014d6ede6ba076e84debfdc5435d1b8f91ae1e1d365586c8efa6051e88_Droid 3 Impact_1.png",
+          "name": "Droid 3 Impact_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3 Impact_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3 Impact_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Projectile/a0e85fb53c4621315024e893335383304fecaf70b622512a57a459b01e95df46_Droid 3 Impact_2.png",
+          "name": "Droid 3 Impact_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Droid 3 Impact_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Droid 3 Impact_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Projectile/245fd150a763855c1fe62feb6a273a18e45ac275ac55a38e30bf4aa7ca829295_Droid 3 Impact_3.png",
+          "name": "Droid 3 Impact_3.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -8169,7 +8337,7 @@
           "angle": 0,
           "customSize": true,
           "height": 1113,
-          "layer": "UI",
+          "layer": "BloodyVision",
           "name": "BloodUI",
           "persistentUuid": "915d96c9-d1ed-4b92-bf09-a7ad32ee1d72",
           "width": 1953,
@@ -9104,8 +9272,8 @@
           ]
         },
         {
-          "assetStoreId": "709df8caa5bf8974aa143b5949ae12d6e6d9068f487988e0f93bff724e2d869c",
-          "name": "BigHammer",
+          "assetStoreId": "45911ca72851485478b46042732ffc80b2251bb4050e58b53d86e1da56fe2719",
+          "name": "Cleaver",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -9123,7 +9291,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Big Hammer.png",
+                      "image": "Cleaver.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -9145,8 +9313,8 @@
           ]
         },
         {
-          "assetStoreId": "45911ca72851485478b46042732ffc80b2251bb4050e58b53d86e1da56fe2719",
-          "name": "Cleaver",
+          "assetStoreId": "709df8caa5bf8974aa143b5949ae12d6e6d9068f487988e0f93bff724e2d869c",
+          "name": "BigHammer",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -9164,7 +9332,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Cleaver.png",
+                      "image": "Big Hammer.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18111,88 +18279,6 @@
           ]
         },
         {
-          "assetStoreId": "bda8505be9ebc75cfe6164a50e7d290225b012118f89171cedcd2602ca2a5aa0",
-          "name": "MagicGreenSparklesSword",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Magic Green Sparkles Sword.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "361eacddc54042d8cf1e6281ff0eafaa70497f5969d7b67dff090244ea900a96",
-          "name": "MagicGreenSword",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Magic Green Sword.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "name": "Player",
           "tags": "",
@@ -19066,12 +19152,72 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Blood Spot_Large.png",
+                      "image": "assets\\Large-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2.6000003814697266,
-                        "y": 2.6000003814697266
+                        "x": 8,
+                        "y": 8.05000114440918
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 7.149999618530273
+                          },
+                          {
+                            "x": 16,
+                            "y": 4.149999618530273
+                          },
+                          {
+                            "x": 16,
+                            "y": 12.649999618530273
+                          },
+                          {
+                            "x": 0,
+                            "y": 8.600000381469727
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "e7f572ce59d67359de92c9c633bf2dfe661648ee753cad1cde3f8b655e708850",
+          "name": "BloodBulletDestroy",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Large",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Large-1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 8.05000114440918
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -19086,12 +19232,264 @@
                             "y": 0
                           },
                           {
-                            "x": 5,
+                            "x": 16,
                             "y": 0
                           },
                           {
-                            "x": 5,
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Large-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 8.05000114440918
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
                             "y": 5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Large-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 8.05000114440918
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Large-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 8.05000114440918
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Large-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 8.05000114440918
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Large-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 8.05000114440918
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Large-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 8.05000114440918
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Large-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 8.05000114440918
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
                           },
                           {
                             "x": 0,
@@ -23618,10 +24016,10 @@
           "effects": [],
           "behaviors": [
             {
-              "acceleration": 300,
-              "maxSpeed": 300,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 300,
+              "maxSpeed": 300,
               "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
@@ -27166,13 +27564,13 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
               "bottomEdgeAnchor": 2,
               "leftEdgeAnchor": 1,
-              "name": "Anchor",
               "relativeToOriginalWindowSize": false,
               "rightEdgeAnchor": 2,
               "topEdgeAnchor": 1,
-              "type": "AnchorBehavior::AnchorBehavior",
               "useLegacyBottomAndRightAnchors": true
             }
           ],
@@ -27835,9 +28233,9 @@
           "effects": [],
           "behaviors": [
             {
-              "extraBorder": 1500,
               "name": "DestroyOutside",
-              "type": "DestroyOutsideBehavior::DestroyOutside"
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 1500
             }
           ]
         },
@@ -27974,7 +28372,34 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Glow",
+              "name": "Attack",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "255;0;0"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Glow",
+              "name": "Return",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "0;237;255"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "Boomerang",
@@ -28050,6 +28475,310 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "NewSprite-4-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "BatLight",
+          "tags": "",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "radius": 90,
+            "color": "255;0;0",
+            "debugMode": false,
+            "texture": ""
+          }
+        },
+        {
+          "assetStoreId": "bda8505be9ebc75cfe6164a50e7d290225b012118f89171cedcd2602ca2a5aa0",
+          "name": "MagicGreenSparklesSword",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Magic Green Sparkles Sword.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "361eacddc54042d8cf1e6281ff0eafaa70497f5969d7b67dff090244ea900a96",
+          "name": "MagicGreenSword",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Magic Green Sword.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "097ff9a975d86abf7c24e14fea12aca20f81f1a2f9ad8f7023e9b710f021d950",
+          "name": "WhiteBulletDestroy",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Droid 1 Impact_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 10.5,
+                        "y": 7.850000381469727
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 21,
+                            "y": 0
+                          },
+                          {
+                            "x": 21,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Droid 1 Impact_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 10.5,
+                        "y": 7.850000381469727
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 21,
+                            "y": 0
+                          },
+                          {
+                            "x": 21,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Droid 1 Impact_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 10.5,
+                        "y": 7.850000381469727
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 21,
+                            "y": 0
+                          },
+                          {
+                            "x": 21,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "3d4feba7002a6d65c40d3df528c281a5d7e0422437da69df0ec4024fab60e37b",
+          "name": "Droid3Impact",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Droid 3 Impact_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Droid 3 Impact_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Droid 3 Impact_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -30308,13 +31037,33 @@
                     },
                     {
                       "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "BatFlying",
+                        "\"Return\"",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "BatFlying",
+                        "\"Attack\"",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "Boomerang::Boomerang::ThrowBoomerangAngle"
                       },
                       "parameters": [
                         "BatFlying",
                         "Boomerang",
                         "Gun.Angle()",
-                        "200",
+                        "265",
                         "2.5",
                         "0",
                         ""
@@ -30350,6 +31099,88 @@
                         "Gun.Angle()-180"
                       ]
                     }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Angle"
+                          },
+                          "parameters": [
+                            "Gun",
+                            "<",
+                            "90"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Angle"
+                          },
+                          "parameters": [
+                            "Gun",
+                            ">",
+                            "-90"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FlipY"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "yes"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Or"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "Angle"
+                              },
+                              "parameters": [
+                                "Gun",
+                                "<=",
+                                "-90"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Angle"
+                              },
+                              "parameters": [
+                                "Gun",
+                                ">=",
+                                "90"
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FlipY"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "no"
+                          ]
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
@@ -30365,6 +31196,110 @@
                         "Boomerang",
                         "Player",
                         ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Boomerang::Boomerang::IsBoomerangReturning"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "Boomerang",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "IsEffectEnabled"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "\"Attack\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "EnableEffect"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "\"Return\"",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Lighting::SetColor"
+                          },
+                          "parameters": [
+                            "BatLight",
+                            "\"0;219;255\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Lighting::SetRadius"
+                          },
+                          "parameters": [
+                            "BatLight",
+                            "74"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlipX"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "EnableEffect"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "\"Attack\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Boomerang::Boomerang::IsBoomerangReturning"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "Boomerang",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "RotateTowardPosition"
+                          },
+                          "parameters": [
+                            "BatFlying",
+                            "Player.CenterX()",
+                            "Player.CenterY()",
+                            "360",
+                            ""
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -30393,12 +31328,6 @@
                         "Boomerang",
                         ""
                       ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -30413,6 +31342,15 @@
                     },
                     {
                       "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "BatLight",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "ModVarObjet"
                       },
                       "parameters": [
@@ -30420,86 +31358,6 @@
                         "BatCount",
                         "+",
                         "1"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Angle"
-                      },
-                      "parameters": [
-                        "BatFlying",
-                        ">",
-                        "90"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Angle"
-                      },
-                      "parameters": [
-                        "BatFlying",
-                        "<",
-                        "-90"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "FlipY"
-                      },
-                      "parameters": [
-                        "BatFlying",
-                        "no"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Or"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "Angle"
-                          },
-                          "parameters": [
-                            "BatFlying",
-                            "<",
-                            "-90"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Angle"
-                          },
-                          "parameters": [
-                            "BatFlying",
-                            ">",
-                            "90"
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "FlipY"
-                      },
-                      "parameters": [
-                        "BatFlying",
-                        "yes"
                       ]
                     }
                   ]
@@ -31659,7 +32517,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Enemies",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -31732,10 +32589,32 @@
                   },
                   "parameters": [
                     "",
+                    "WhiteBulletDestroy",
+                    "WhiteBullet.CenterX()",
+                    "WhiteBullet.CenterY()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
                     "BloodHoleParticleEmitter",
                     "BigZombie.CenterX()",
                     "BigZombie.CenterY()",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "WhiteBulletDestroy",
+                    "=",
+                    "WhiteBullet.Angle()"
                   ]
                 },
                 {
@@ -31828,10 +32707,32 @@
                   },
                   "parameters": [
                     "",
+                    "BloodBulletDestroy",
+                    "BloodBullet.CenterX()",
+                    "BloodBullet.CenterY()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
                     "BloodHoleParticleEmitter",
                     "BigZombie.CenterX()",
                     "BigZombie.CenterY()",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "BloodBulletDestroy",
+                    "=",
+                    "BloodBullet.Angle()"
                   ]
                 },
                 {
@@ -31852,6 +32753,54 @@
                     "BloodHoleParticleEmitter",
                     "=",
                     "9"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "WhiteBulletDestroy"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "WhiteBulletDestroy",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "BloodBulletDestroy"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "BloodBulletDestroy",
+                    ""
                   ]
                 }
               ]
@@ -32742,8 +33691,19 @@
           "ambientLightColorR": 16917504,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "name": "BloodyVision",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 12,
+          "ambientLightColorG": 6059840,
+          "ambientLightColorR": 17227424,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
           "name": "UI",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         }
