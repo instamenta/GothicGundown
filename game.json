@@ -8434,8 +8434,8 @@
           "name": "PlayerLight",
           "persistentUuid": "a803f1f0-c230-472d-990e-a10b3d42f0bf",
           "width": 0,
-          "x": 1315,
-          "y": 44,
+          "x": 1601,
+          "y": -48,
           "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
@@ -8629,8 +8629,8 @@
           "name": "AmmoTracer",
           "persistentUuid": "14bbf39b-24a6-47f5-b8ac-7e667627c5c3",
           "width": 112,
-          "x": 1110,
-          "y": 19,
+          "x": 1083,
+          "y": 17,
           "zOrder": 117,
           "numberProperties": [],
           "stringProperties": [],
@@ -8658,7 +8658,7 @@
           "layer": "UI",
           "name": "HealthBarBox",
           "persistentUuid": "40ab4248-cbb7-4d14-8ee5-bf95f7f94c52",
-          "width": 304,
+          "width": 454,
           "x": 8,
           "y": 11,
           "zOrder": 119,
@@ -8673,7 +8673,7 @@
           "layer": "UI",
           "name": "HealthBarFill",
           "persistentUuid": "020b9bcb-3657-439b-8bf1-fe2817c86958",
-          "width": 286,
+          "width": 435,
           "x": 17,
           "y": 14,
           "zOrder": 120,
@@ -8698,29 +8698,14 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 38,
-          "layer": "UI",
-          "name": "Ammo1",
-          "persistentUuid": "1dcd1ca8-7d16-4cf7-8df2-344368270f43",
-          "width": 25,
-          "x": 1230,
-          "y": 27,
-          "zOrder": 122,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "UI",
           "name": "ReloadTracker",
           "persistentUuid": "d37e73d0-62df-4930-bf49-f1b6e360a255",
           "width": 0,
-          "x": 1102,
-          "y": 44,
+          "x": 1075,
+          "y": 42,
           "zOrder": 123,
           "numberProperties": [],
           "stringProperties": [],
@@ -8737,6 +8722,21 @@
           "x": -23,
           "y": -290,
           "zOrder": 124,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "UI",
+          "name": "Ammo1",
+          "persistentUuid": "0a0788ba-2d3e-450c-b64e-a24c34eb8b4f",
+          "width": 25,
+          "x": 1227,
+          "y": 27,
+          "zOrder": 122,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10498,7 +10498,20 @@
           "tags": "Enemy",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "CurrentHP",
+              "type": "number",
+              "value": 0
+            },
+            {
+              "folded": true,
+              "name": "MaxHP",
+              "type": "number",
+              "value": 0
+            }
+          ],
           "effects": [
             {
               "effectType": "Glow",
@@ -18926,7 +18939,7 @@
               "folded": true,
               "name": "VampireLight",
               "type": "number",
-              "value": 200
+              "value": 400
             },
             {
               "folded": true,
@@ -18963,6 +18976,12 @@
               "name": "DashCooldown",
               "type": "number",
               "value": 0.5
+            },
+            {
+              "folded": true,
+              "name": "ReloadStatus",
+              "type": "number",
+              "value": 360
             }
           ],
           "effects": [],
@@ -18993,6 +19012,13 @@
               "OverheatDuration": 0,
               "LinearCoolingRate": 0.1,
               "ExponentialCoolingRate": 0.3
+            },
+            {
+              "name": "Flash",
+              "type": "Flash::Flash",
+              "HalfPeriodTime": 0.1,
+              "IsFlashing": false,
+              "FlashDuration": 0
             },
             {
               "name": "Health",
@@ -24587,6 +24613,10 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "AnimationBehavior",
+              "type": "AnimationSystem::AnimationBehavior"
+            },
+            {
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
               "acceleration": 300,
@@ -28858,6 +28888,11 @@
               "name": "DestroyOutside",
               "type": "DestroyOutsideBehavior::DestroyOutside",
               "extraBorder": 1500
+            },
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": false
             }
           ]
         },
@@ -30084,8 +30119,8 @@
               "useLegacyBottomAndRightAnchors": false
             }
           ],
-          "fillOpacity": 255,
-          "outlineSize": 2,
+          "fillOpacity": 0,
+          "outlineSize": 12,
           "outlineOpacity": 255,
           "fillColor": {
             "b": 0,
@@ -30095,7 +30130,7 @@
           "outlineColor": {
             "b": 0,
             "g": 0,
-            "r": 0
+            "r": 255
           },
           "absoluteCoordinates": false,
           "clearBetweenFrames": true
@@ -30162,7 +30197,21 @@
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Glow",
+              "name": "Effect",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "255;0;0"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "Tween",
@@ -30172,10 +30221,10 @@
           "string": "1",
           "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
           "textAlignment": "center",
-          "characterSize": 20,
+          "characterSize": 14,
           "color": {
-            "b": 0,
-            "g": 0,
+            "b": 255,
+            "g": 255,
             "r": 255
           }
         }
@@ -30289,6 +30338,21 @@
                 "Player",
                 "\"DashTimer\""
               ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectVariableTween2"
+              },
+              "parameters": [
+                "Player",
+                "Tween",
+                "\"ReloadAnimationTween\"",
+                "ReloadStatus",
+                "360",
+                "\"linear\"",
+                "20",
+                ""
+              ]
             }
           ]
         },
@@ -30315,9 +30379,9 @@
               "parameters": [
                 "Camera",
                 "=",
-                "lerp(Camera.X(),Player.X(),0.06)",
+                "lerp((Camera.X()+Player.X())/2,MouseX(),0.06)",
                 "=",
-                "lerp(Camera.Y(),Player.Y(),0.09)"
+                "lerp((Camera.Y()+Player.Y())/2,MouseY(),0.09)"
               ]
             },
             {
@@ -30479,11 +30543,11 @@
               },
               "parameters": [
                 "ReloadTracker",
-                "0",
-                "0",
-                "24",
+                "",
+                "",
+                "20",
                 "1",
-                "360",
+                "Player.Variable(ReloadStatus)",
                 "",
                 ""
               ]
@@ -30536,6 +30600,7 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -31028,6 +31093,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -31520,6 +31586,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -31712,6 +31779,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -31892,30 +31960,7 @@
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "AnimationEnded2"
-                  },
-                  "parameters": [
-                    "DashGroundAnimation"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "DashGroundAnimation",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
               "actions": [
@@ -31941,6 +31986,32 @@
                     "Player.PointX(\"Feet\")",
                     "=",
                     "Player.PointY(\"Feet\")"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "DashGroundAnimation"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "DashGroundAnimation",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -32413,6 +32484,37 @@
                     "14"
                   ]
                 }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "GunEffectAnimation1"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "GunEffectAnimation1",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
+                }
               ]
             },
             {
@@ -32459,30 +32561,100 @@
                     "FireBullet",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
-              "actions": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "PrimitiveDrawing::OutlineColor"
+                  },
+                  "parameters": [
+                    "ReloadTracker",
+                    "\"17;241;218\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "ReloadStatus",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectVariableTween2"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Tween",
+                    "\"ReloadAnimationTween\"",
+                    "ReloadStatus",
+                    "360",
+                    "\"linear\"",
+                    "1000",
+                    ""
+                  ]
+                }
+              ]
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "AnimationEnded2"
+                    "value": "Tween::HasFinished"
                   },
                   "parameters": [
-                    "GunEffectAnimation1"
+                    "Player",
+                    "Tween",
+                    "\"ReloadAnimationTween\"\n"
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "Delete"
+                    "value": "Tween::StopTween"
                   },
                   "parameters": [
-                    "GunEffectAnimation1",
+                    "Player",
+                    "Tween",
+                    "\"ReloadAnimationTween\"",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectVariableTween2"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Tween",
+                    "\"ShotsLeftSpinner\"",
+                    "ReloadStatus",
+                    "360 - ((Player.FireBullet:: ShotsPerReload()- Player.FireBullet::ShotsBeforeNextReload())*60 )",
+                    "\"swingTo\"",
+                    "100",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PrimitiveDrawing::OutlineColor"
+                  },
+                  "parameters": [
+                    "ReloadTracker",
+                    "\"255;0;0\""
                   ]
                 }
               ]
@@ -34347,9 +34519,9 @@
                     "DemageNumbers",
                     "Tween",
                     "\"DemageNumbersTextFloatTween\"",
-                    "DemageNumbers.CenterY()-30",
+                    "DemageNumbers.CenterY()-50",
                     "\"easeOutQuad\"",
-                    "350",
+                    "1500",
                     "yes"
                   ]
                 },
@@ -34362,8 +34534,8 @@
                     "Tween",
                     "\"DemageNumbersTextOpacityTween\"",
                     "0",
-                    "\"easeOutQuad\"",
-                    "400",
+                    "\"linear\"",
+                    "1500",
                     "yes"
                   ]
                 }
@@ -34505,6 +34677,34 @@
                     "DemageNumbers",
                     "=",
                     "ToString(Player.Variable(BloodShotDMG))"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectPositionYTween"
+                  },
+                  "parameters": [
+                    "DemageNumbers",
+                    "Tween",
+                    "\"DemageNumbersTextFloatTween\"",
+                    "DemageNumbers.CenterY()-50",
+                    "\"easeOutQuad\"",
+                    "1500",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectOpacityTween"
+                  },
+                  "parameters": [
+                    "DemageNumbers",
+                    "Tween",
+                    "\"DemageNumbersTextOpacityTween\"",
+                    "0",
+                    "\"linear\"",
+                    "1500",
+                    "yes"
                   ]
                 }
               ]
@@ -35382,6 +35582,23 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "BigZ",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
             }
           ],
           "parameters": []
@@ -35399,8 +35616,44 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "BigZombie",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Flash::Flash::IsFlashing"
+              },
+              "parameters": [
+                "Player",
+                "Flash",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Flash::Flash::Flash"
+              },
+              "parameters": [
+                "Player",
+                "Flash",
+                "1",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -35474,6 +35727,10 @@
           "type": "FireBullet::FireBullet"
         },
         {
+          "name": "Flash",
+          "type": "Flash::Flash"
+        },
+        {
           "name": "Health",
           "type": "Health::Health"
         },
@@ -35492,6 +35749,10 @@
         {
           "name": "ShakeObject_PositionAngleScale",
           "type": "ShakeObject::ShakeObject_PositionAngleScale"
+        },
+        {
+          "name": "Sticker",
+          "type": "Sticker::Sticker"
         },
         {
           "name": "TopDownMovement",
