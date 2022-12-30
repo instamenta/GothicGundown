@@ -8325,6 +8325,32 @@
         "name": "NewSprite-1-9.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cursed Sword.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cursed Sword.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Weird Swords/3377d9152185ee0c31bf080b2da074c7c1bb5f8f4fe7e1a6e22fd04aa1ea8d8d_Cursed Sword.png",
+          "name": "Cursed Sword.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Broad Dagger_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "086d0e6f9caa5a101ba895460263f91d6ba47b97403ceada9d5788b46fa32b62_Broad Dagger_No Shadow.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Weapons/086d0e6f9caa5a101ba895460263f91d6ba47b97403ceada9d5788b46fa32b62_Broad Dagger_No Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -8644,8 +8670,8 @@
           "name": "BatCountTracer",
           "persistentUuid": "a787e83d-ed7b-40bb-b2ea-df696a0a2300",
           "width": 123,
-          "x": 15,
-          "y": 49,
+          "x": 1071,
+          "y": 100,
           "zOrder": 118,
           "numberProperties": [],
           "stringProperties": [],
@@ -8689,8 +8715,8 @@
           "name": "BatUI",
           "persistentUuid": "ca6e181d-6130-43a3-97bc-4752d04b90ee",
           "width": 59,
-          "x": 107,
-          "y": 55,
+          "x": 1210,
+          "y": 102,
           "zOrder": 121,
           "numberProperties": [],
           "stringProperties": [],
@@ -8704,7 +8730,7 @@
           "name": "ReloadTracker",
           "persistentUuid": "d37e73d0-62df-4930-bf49-f1b6e360a255",
           "width": 0,
-          "x": 1075,
+          "x": 1070,
           "y": 42,
           "zOrder": 123,
           "numberProperties": [],
@@ -8737,6 +8763,36 @@
           "x": 1227,
           "y": 27,
           "zOrder": 122,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "name": "HealthTextUI",
+          "persistentUuid": "35ced595-bf46-41c9-a6e9-feb85213f445",
+          "width": 0,
+          "x": 175,
+          "y": 11,
+          "zOrder": 125,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 56,
+          "layer": "UI",
+          "name": "DaggerUI",
+          "persistentUuid": "adcdf68a-67e7-403d-bf58-e692562c6bc8",
+          "width": 64,
+          "x": 1211,
+          "y": 172,
+          "zOrder": 126,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18933,7 +18989,7 @@
               "folded": true,
               "name": "VampireCameraZoom",
               "type": "number",
-              "value": 1.3
+              "value": 1.6
             },
             {
               "folded": true,
@@ -19016,7 +19072,7 @@
             {
               "name": "Flash",
               "type": "Flash::Flash",
-              "HalfPeriodTime": 0.1,
+              "HalfPeriodTime": 0.06,
               "IsFlashing": false,
               "FlashDuration": 0
             },
@@ -28981,12 +29037,12 @@
           "effects": [],
           "behaviors": [
             {
+              "leftEdgeAnchor": 0,
               "name": "Anchor",
+              "rightEdgeAnchor": 2,
               "type": "AnchorBehavior::AnchorBehavior",
               "bottomEdgeAnchor": 0,
-              "leftEdgeAnchor": 1,
               "relativeToOriginalWindowSize": true,
-              "rightEdgeAnchor": 0,
               "topEdgeAnchor": 1,
               "useLegacyBottomAndRightAnchors": false
             }
@@ -29971,19 +30027,19 @@
           "effects": [],
           "behaviors": [
             {
+              "leftEdgeAnchor": 0,
               "name": "Anchor",
+              "rightEdgeAnchor": 2,
               "type": "AnchorBehavior::AnchorBehavior",
               "bottomEdgeAnchor": 0,
-              "leftEdgeAnchor": 1,
               "relativeToOriginalWindowSize": true,
-              "rightEdgeAnchor": 0,
               "topEdgeAnchor": 1,
               "useLegacyBottomAndRightAnchors": false
             }
           ],
           "string": "0/3",
           "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
-          "textAlignment": "left",
+          "textAlignment": "right",
           "characterSize": 38,
           "color": {
             "b": 255,
@@ -29999,8 +30055,29 @@
           "texture": "tiled_Health Bar Fill.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 128,
-          "variables": [],
-          "effects": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "Tweaker",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Glow",
+              "name": "Effect",
+              "doubleParameters": {
+                "distance": 20,
+                "innerStrength": 2,
+                "outerStrength": 0.1
+              },
+              "stringParameters": {
+                "color": "255;0;0"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "Anchor",
@@ -30011,6 +30088,10 @@
               "rightEdgeAnchor": 0,
               "topEdgeAnchor": 1,
               "useLegacyBottomAndRightAnchors": false
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
             }
           ]
         },
@@ -30027,23 +30108,6 @@
           "topMargin": 6,
           "type": "PanelSpriteObject::PanelSprite",
           "width": 96,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "c1d43b91a3f98287754630cabfa836d7bc737eabe5c0b1bc316a0d89da6ec050",
-          "bottomMargin": 12,
-          "height": 26,
-          "leftMargin": 10,
-          "name": "EnergyBar",
-          "rightMargin": 10,
-          "tags": "",
-          "texture": "Health Bar.png",
-          "tiled": true,
-          "topMargin": 13,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 78,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -30117,6 +30181,10 @@
               "rightEdgeAnchor": 2,
               "topEdgeAnchor": 1,
               "useLegacyBottomAndRightAnchors": false
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
             }
           ],
           "fillOpacity": 0,
@@ -30227,6 +30295,124 @@
             "g": 255,
             "r": 255
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": true,
+          "name": "HealthTextUI",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 0,
+                "thickness": 2
+              },
+              "stringParameters": {
+                "color": "0;0;0"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [],
+          "string": "1000/1000",
+          "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+          "textAlignment": "center",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "e005c5e68460a1aefc8795db3747fe42c538f449416705b847b822fe231d2aa4",
+          "name": "DaggerUI",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Glow",
+              "name": "AttackGlow",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "255;0;0"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Glow",
+              "name": "ReturnGlow",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "0;255;228"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 0,
+              "name": "Anchor",
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 2,
+              "topEdgeAnchor": 1,
+              "type": "AnchorBehavior::AnchorBehavior",
+              "useLegacyBottomAndRightAnchors": false
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "086d0e6f9caa5a101ba895460263f91d6ba47b97403ceada9d5788b46fa32b62_Broad Dagger_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -30353,6 +30539,36 @@
                 "20",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "TextObject::Opacity"
+              },
+              "parameters": [
+                "HealthTextUI",
+                "=",
+                "174"
+              ]
+            },
+            {
+              "type": {
+                "value": "EnableEffect"
+              },
+              "parameters": [
+                "DaggerUI",
+                "\"AttackGlow\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "EnableEffect"
+              },
+              "parameters": [
+                "DaggerUI",
+                "\"ReturnGlow\"",
+                ""
+              ]
             }
           ]
         },
@@ -30430,6 +30646,30 @@
                 "AnimeSword.CenterX()",
                 "=",
                 "AnimeSword.CenterY()"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "HealthTextUI",
+                "=",
+                "ToString(Player.Health::Health()) + \"/\" + ToString(Player.Health::MaxHealth())"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectWidthTween"
+              },
+              "parameters": [
+                "HealthBarFill",
+                "Tween",
+                "\"HealthBarTween\"",
+                "(Player.Health::Health() /\nPlayer.Health::MaxHealth()) * 435",
+                "\"easeTo\"",
+                "100",
+                ""
               ]
             }
           ]
@@ -32063,7 +32303,7 @@
                     "Gun.PointY(\"Front\")",
                     "WhiteBullet",
                     "Gun.Angle()",
-                    "150",
+                    "447",
                     ""
                   ]
                 },
@@ -32126,7 +32366,7 @@
                     "Gun.PointY(\"Front\")",
                     "BloodBullet",
                     "Gun.Angle()",
-                    "150",
+                    "447",
                     ""
                   ]
                 },
@@ -32413,30 +32653,6 @@
                     "value": "SetCenter"
                   },
                   "parameters": [
-                    "BloodBulletTrailParticleEmitter",
-                    "=",
-                    "BloodBullet.CenterX()",
-                    "=",
-                    "BloodBullet.CenterY()"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetCenter"
-                  },
-                  "parameters": [
-                    "WhiteBulletTrailParticleEmitter",
-                    "=",
-                    "WhiteBullet.CenterX()",
-                    "=",
-                    "WhiteBullet.CenterY()"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetCenter"
-                  },
-                  "parameters": [
                     "GunSmokeParticleEmitter",
                     "=",
                     "Gun.PointX(\"GunSmoke\")",
@@ -32512,8 +32728,63 @@
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PickNearest"
+                      },
+                      "parameters": [
+                        "WhiteBullet",
+                        "Player.CenterX()",
+                        "Player.CenterY()",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetCenter"
+                      },
+                      "parameters": [
+                        "WhiteBulletTrailParticleEmitter",
+                        "=",
+                        "WhiteBullet.CenterX()",
+                        "=",
+                        "WhiteBullet.CenterY()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PickNearest"
+                      },
+                      "parameters": [
+                        "BloodBullet",
+                        "Player.CenterX()",
+                        "Player.CenterY()",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetCenter"
+                      },
+                      "parameters": [
+                        "BloodBulletTrailParticleEmitter",
+                        "=",
+                        "BloodBullet.CenterX()",
+                        "=",
+                        "BloodBullet.CenterY()"
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -33155,11 +33426,31 @@
                     },
                     {
                       "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "DaggerUI",
+                        "\"ReturnGlow\"",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "ResetObjectTimer"
                       },
                       "parameters": [
                         "Player",
                         "\"DaggerThrowTimer\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "DaggerUI",
+                        "\"AttackGlow\"",
+                        "yes"
                       ]
                     }
                   ]
@@ -33217,6 +33508,30 @@
                         "Player",
                         "DaggerState",
                         "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectOpacityTween"
+                      },
+                      "parameters": [
+                        "DaggerUI",
+                        "Tween",
+                        "\"DaggerUIOpacityTween\"",
+                        "150",
+                        "\"swingTo\"",
+                        "100",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "DaggerUI",
+                        "\"ReturnGlow\"",
+                        "no"
                       ]
                     }
                   ]
@@ -33276,6 +33591,20 @@
                         "Boomerang",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectOpacityTween"
+                      },
+                      "parameters": [
+                        "DaggerUI",
+                        "Tween",
+                        "\"DaggerUIOpacityTween\"",
+                        "255",
+                        "\"swingTo\"",
+                        "100",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -33305,6 +33634,16 @@
                         "value": "EnableEffect"
                       },
                       "parameters": [
+                        "DaggerUI",
+                        "\"AttackGlow\"",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
                         "AnimeSword",
                         "\"Attack\"",
                         ""
@@ -33317,6 +33656,16 @@
                       "parameters": [
                         "AnimeSword",
                         "\"Return\"",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "DaggerUI",
+                        "\"ReturnGlow\"",
                         "yes"
                       ]
                     },
@@ -33374,7 +33723,7 @@
                         "AnimeSword",
                         "Player.X()",
                         "Player.Y()",
-                        "150",
+                        "250",
                         ""
                       ]
                     }
@@ -33645,6 +33994,22 @@
                   "conditions": [
                     {
                       "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "DaggerState",
+                        "="
+                      ]
+                    }
+                  ],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
                         "value": "AnimationEnded2"
                       },
                       "parameters": [
@@ -33766,7 +34131,7 @@
                     "Tween",
                     "\"CameraZoom\"",
                     "VampireCameraZoom",
-                    "1",
+                    "1.3",
                     "\"linear\"",
                     "350",
                     ""
@@ -33796,7 +34161,7 @@
                     "Tween",
                     "\"LightSize\"",
                     "VampireLight",
-                    "300",
+                    "450",
                     "\"linear\"",
                     "200",
                     ""
@@ -34002,7 +34367,7 @@
                     "Tween",
                     "\"LightSize\"",
                     "VampireLight",
-                    "200",
+                    "400",
                     "\"linear\"",
                     "250",
                     ""
@@ -34047,7 +34412,7 @@
                     "Tween",
                     "\"CameraZoom\"",
                     "VampireCameraZoom",
-                    "1.3",
+                    "1.6",
                     "\"linear\"",
                     "150",
                     ""
@@ -34237,18 +34602,6 @@
                         "500",
                         ""
                       ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "Distance"
-                      },
-                      "parameters": [
-                        "BigZombie",
-                        "BigZombie",
-                        "100",
-                        ""
-                      ]
                     }
                   ],
                   "actions": [
@@ -34369,6 +34722,58 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "BigZombie",
+                        "BigZombie",
+                        "100",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PickNearest"
+                      },
+                      "parameters": [
+                        "BigZombie",
+                        "BigZombie.CenterX()",
+                        "BigZombie.CenterY()",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "BossIcon",
+                        "BigZombie.CenterX()",
+                        "BigZombie.CenterY()",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AddForceAL"
+                      },
+                      "parameters": [
+                        "BigZombie",
+                        "Player.AngleToObject(BigZombie)-180",
+                        "1000",
+                        ""
+                      ]
+                    }
+                  ]
                 }
               ],
               "parameters": []
@@ -34396,14 +34801,6 @@
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.07"
-                  ]
-                },
                 {
                   "type": {
                     "value": "Health::Health::Hit"
@@ -35499,7 +35896,19 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PickNearest"
+                  },
+                  "parameters": [
+                    "BigZombie",
+                    "ZombieSoul.CenterX()",
+                    "ZombieSoul.CenterY()",
+                    ""
+                  ]
+                }
+              ],
               "actions": [
                 {
                   "type": {
@@ -35582,23 +35991,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "BigZombie",
-                    "BigZ",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": []
             }
           ],
           "parameters": []
@@ -35644,12 +36036,99 @@
           "actions": [
             {
               "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "10",
+                "yes",
+                "yes",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Flash::Flash::Flash"
               },
               "parameters": [
                 "Player",
                 "Flash",
                 "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "HitLagState",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Player",
+                "HitLagState",
+                "False"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Health::Health::SetCurrentHealth"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "Player.Health::MaxHealth()",
                 ""
               ]
             }
@@ -35717,6 +36196,10 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior"
+        },
+        {
+          "name": "AnimationBehavior",
+          "type": "AnimationSystem::AnimationBehavior"
         },
         {
           "name": "Boomerang",
