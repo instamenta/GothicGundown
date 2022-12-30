@@ -21,8 +21,8 @@
     "name": "GothicGundown",
     "description": "",
     "author": "",
-    "windowWidth": 1920,
-    "windowHeight": 1080,
+    "windowWidth": 1280,
+    "windowHeight": 800,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
@@ -8037,6 +8037,294 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Sci-Fi Lab/Projectile/245fd150a763855c1fe62feb6a273a18e45ac275ac55a38e30bf4aa7ca829295_Droid 3 Impact_3.png",
           "name": "Droid 3 Impact_3.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-5-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-5-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-6-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-6-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-5-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-5-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-6-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-6-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4-7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-5-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-5-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-6-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-6-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-7-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Kenney Pixel Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Health Bar Fill.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Health Bar Fill.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Hud/3eee053defc4f2944d72ef78b5aebbac31634202712157a3630b84fe08d79cbb_tiled_Health Bar Fill.png",
+          "name": "tiled_Health Bar Fill.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Health Bar Box.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health Bar Box.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/Bar/e6e666707e06c429f6dd475d85d575a5b69a1dc27369a8f1d06a747afa2f1264_Health Bar Box.png",
+          "name": "Health Bar Box.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Health Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Health Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Hud/Bar/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png",
+          "name": "Health Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ammo 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ammo 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/332d86b796eb1f1b3f47656c23dd93b7e2436946e324fe5fbc869dce861e641d_Ammo 1.png",
+          "name": "Ammo 1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-9.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -8048,8 +8336,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene",
-      "name": "Untitled scene",
+      "mangledName": "TestScene",
+      "name": "TestScene",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -8065,7 +8353,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0311973892303794,
+        "zoomFactor": 0.6403002668027624,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -8086,8 +8374,8 @@
           "name": "Player",
           "persistentUuid": "69067daa-cb5b-48a5-ada7-a175ac06a947",
           "width": 0,
-          "x": 646,
-          "y": 423,
+          "x": 485,
+          "y": 317,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -8101,8 +8389,8 @@
           "name": "TiledFlooring",
           "persistentUuid": "b99f8601-8485-49dd-9c8e-d4d569a6c6d0",
           "width": 1923,
-          "x": 5,
-          "y": -1,
+          "x": -1099,
+          "y": 1137,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -8116,8 +8404,8 @@
           "name": "Gun",
           "persistentUuid": "8d07c915-f236-4ac2-a670-49198e2ed8bd",
           "width": 17,
-          "x": 788,
-          "y": 411,
+          "x": 1386,
+          "y": 223,
           "zOrder": 101,
           "numberProperties": [],
           "stringProperties": [],
@@ -8131,8 +8419,8 @@
           "name": "Camera",
           "persistentUuid": "0a144705-27bc-41fb-b974-9e072f82453f",
           "width": 0,
-          "x": 530,
-          "y": 396,
+          "x": 1325,
+          "y": 208,
           "zOrder": 102,
           "numberProperties": [],
           "stringProperties": [],
@@ -8146,8 +8434,8 @@
           "name": "PlayerLight",
           "persistentUuid": "a803f1f0-c230-472d-990e-a10b3d42f0bf",
           "width": 0,
-          "x": 635,
-          "y": 452,
+          "x": 1315,
+          "y": 44,
           "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
@@ -8161,8 +8449,8 @@
           "name": "BigZombie",
           "persistentUuid": "0bff5078-e750-4454-a15c-58511cbc8fd6",
           "width": 0,
-          "x": 1265,
-          "y": 471,
+          "x": 584,
+          "y": 1621,
           "zOrder": 104,
           "numberProperties": [],
           "stringProperties": [],
@@ -8176,8 +8464,8 @@
           "name": "BigZombie",
           "persistentUuid": "1f2114ee-99d6-446f-8423-7905db1d811d",
           "width": 0,
-          "x": 1016,
-          "y": 669,
+          "x": 335,
+          "y": 1819,
           "zOrder": 105,
           "numberProperties": [],
           "stringProperties": [],
@@ -8191,8 +8479,8 @@
           "name": "BigZombie",
           "persistentUuid": "72cb58f2-25ec-4405-81e1-c5580be62900",
           "width": 0,
-          "x": 511,
-          "y": 756,
+          "x": -170,
+          "y": 1906,
           "zOrder": 106,
           "numberProperties": [],
           "stringProperties": [],
@@ -8206,8 +8494,8 @@
           "name": "BigZombie",
           "persistentUuid": "5e95ba54-0560-4696-8509-6b603ecb72da",
           "width": 0,
-          "x": 133,
-          "y": 592,
+          "x": -548,
+          "y": 1742,
           "zOrder": 107,
           "numberProperties": [],
           "stringProperties": [],
@@ -8221,8 +8509,8 @@
           "name": "BigZombie",
           "persistentUuid": "81191426-cb35-403e-9c23-48d4b69d2bc3",
           "width": 0,
-          "x": 97,
-          "y": 356,
+          "x": -584,
+          "y": 1506,
           "zOrder": 108,
           "numberProperties": [],
           "stringProperties": [],
@@ -8236,8 +8524,8 @@
           "name": "BigZombie",
           "persistentUuid": "ed99a029-8bff-4e73-bdd8-8a46dc154cf4",
           "width": 0,
-          "x": 347,
-          "y": 186,
+          "x": -334,
+          "y": 1336,
           "zOrder": 109,
           "numberProperties": [],
           "stringProperties": [],
@@ -8251,8 +8539,8 @@
           "name": "BigZombie",
           "persistentUuid": "aa618457-5bdb-4710-8e03-910e1e80bf64",
           "width": 0,
-          "x": 753,
-          "y": 194,
+          "x": 72,
+          "y": 1344,
           "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
@@ -8266,8 +8554,8 @@
           "name": "BigZombie",
           "persistentUuid": "23c3216c-e1b8-4ebd-a3f0-974896aa88b8",
           "width": 0,
-          "x": 761,
-          "y": 935,
+          "x": 80,
+          "y": 2085,
           "zOrder": 111,
           "numberProperties": [],
           "stringProperties": [],
@@ -8281,8 +8569,8 @@
           "name": "BigZombie",
           "persistentUuid": "bdc27359-4621-4444-9a34-5ac25e1c98e8",
           "width": 0,
-          "x": 259,
-          "y": 951,
+          "x": -422,
+          "y": 2101,
           "zOrder": 112,
           "numberProperties": [],
           "stringProperties": [],
@@ -8296,8 +8584,8 @@
           "name": "BigZombie",
           "persistentUuid": "765b7c01-9d00-46a9-a8cb-b1fcc94e30aa",
           "width": 0,
-          "x": 17,
-          "y": 87,
+          "x": 115,
+          "y": 1279,
           "zOrder": 113,
           "numberProperties": [],
           "stringProperties": [],
@@ -8311,24 +8599,9 @@
           "name": "BigZombie",
           "persistentUuid": "827c80e4-b3f0-4e86-a4fa-6adc054c771d",
           "width": 0,
-          "x": 1057,
-          "y": 241,
+          "x": 376,
+          "y": 1391,
           "zOrder": 114,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "ZombieSoulEnergy",
-          "persistentUuid": "101aa13b-790f-4ddc-88e9-546210af7775",
-          "width": 0,
-          "x": 1029,
-          "y": 847,
-          "zOrder": 115,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8341,9 +8614,129 @@
           "name": "BloodUI",
           "persistentUuid": "915d96c9-d1ed-4b92-bf09-a7ad32ee1d72",
           "width": 2081,
-          "x": 0,
+          "x": -342,
           "y": -21,
           "zOrder": 116,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 82,
+          "layer": "UI",
+          "name": "AmmoTracer",
+          "persistentUuid": "14bbf39b-24a6-47f5-b8ac-7e667627c5c3",
+          "width": 112,
+          "x": 1110,
+          "y": 19,
+          "zOrder": 117,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 74,
+          "layer": "UI",
+          "name": "BatCountTracer",
+          "persistentUuid": "a787e83d-ed7b-40bb-b2ea-df696a0a2300",
+          "width": 123,
+          "x": 15,
+          "y": 49,
+          "zOrder": 118,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 28,
+          "layer": "UI",
+          "name": "HealthBarBox",
+          "persistentUuid": "40ab4248-cbb7-4d14-8ee5-bf95f7f94c52",
+          "width": 304,
+          "x": 8,
+          "y": 11,
+          "zOrder": 119,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 22,
+          "layer": "UI",
+          "name": "HealthBarFill",
+          "persistentUuid": "020b9bcb-3657-439b-8bf1-fe2817c86958",
+          "width": 286,
+          "x": 17,
+          "y": 14,
+          "zOrder": 120,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 61,
+          "layer": "UI",
+          "name": "BatUI",
+          "persistentUuid": "ca6e181d-6130-43a3-97bc-4752d04b90ee",
+          "width": 59,
+          "x": 107,
+          "y": 55,
+          "zOrder": 121,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "UI",
+          "name": "Ammo1",
+          "persistentUuid": "1dcd1ca8-7d16-4cf7-8df2-344368270f43",
+          "width": 25,
+          "x": 1230,
+          "y": 27,
+          "zOrder": 122,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "name": "ReloadTracker",
+          "persistentUuid": "d37e73d0-62df-4930-bf49-f1b6e360a255",
+          "width": 0,
+          "x": 1102,
+          "y": 44,
+          "zOrder": 123,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 288,
+          "layer": "",
+          "name": "RainObject",
+          "persistentUuid": "46cf5260-d7e7-4cdb-94b7-b5ee12aaed64",
+          "width": 1326,
+          "x": -23,
+          "y": -290,
+          "zOrder": 124,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10187,14 +10580,10 @@
               "IdleTime": 20
             },
             {
-              "name": "LightObstacleBehavior",
-              "type": "Lighting::LightObstacleBehavior"
-            },
-            {
-              "acceleration": 130,
-              "maxSpeed": 200,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 130,
+              "maxSpeed": 200,
               "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
@@ -12555,7 +12944,7 @@
         {
           "assetStoreId": "7380e4d9df4c1ddce37151f0c6e3d99b6a62f74ff0eacd36b7814738d3ea5c92",
           "name": "Necromancer",
-          "tags": "",
+          "tags": "Enemy",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -18483,7 +18872,7 @@
               "folded": true,
               "name": "AttackSpeed",
               "type": "number",
-              "value": 0.65
+              "value": 0.35
             },
             {
               "folded": true,
@@ -18501,7 +18890,7 @@
               "folded": true,
               "name": "DashLength",
               "type": "number",
-              "value": 100
+              "value": 125
             },
             {
               "folded": true,
@@ -18531,7 +18920,7 @@
               "folded": true,
               "name": "VampireCameraZoom",
               "type": "number",
-              "value": 2.5
+              "value": 1.3
             },
             {
               "folded": true,
@@ -18556,6 +18945,24 @@
               "name": "BloodUI",
               "type": "number",
               "value": 0
+            },
+            {
+              "folded": true,
+              "name": "BulletsCounterUI",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "folded": true,
+              "name": "BulletsMaxCount",
+              "type": "number",
+              "value": 6
+            },
+            {
+              "folded": true,
+              "name": "DashCooldown",
+              "type": "number",
+              "value": 0.5
             }
           ],
           "effects": [],
@@ -18570,7 +18977,7 @@
               "AngleVariance": 0,
               "RotateBullet": true,
               "AmmoQuantity": 0,
-              "ShotsPerReload": 0,
+              "ShotsPerReload": 6,
               "ReloadDuration": 1,
               "MaxAmmo": 0,
               "ShotsBeforeNextReload": 0,
@@ -27728,10 +28135,10 @@
           "effects": [],
           "behaviors": [
             {
-              "leftEdgeAnchor": 1,
               "name": "Anchor",
-              "rightEdgeAnchor": 2,
               "type": "AnchorBehavior::AnchorBehavior",
+              "leftEdgeAnchor": 1,
+              "rightEdgeAnchor": 2,
               "useLegacyBottomAndRightAnchors": false,
               "bottomEdgeAnchor": 2,
               "relativeToOriginalWindowSize": false,
@@ -28531,6 +28938,58 @@
         },
         {
           "assetStoreId": "",
+          "name": "BatUI",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 1,
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 0,
+              "topEdgeAnchor": 1,
+              "useLegacyBottomAndRightAnchors": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.09,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
           "name": "BatFlying",
           "tags": "",
           "type": "Sprite",
@@ -28962,6 +29421,763 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "GhostEnemy",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Appear",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Attack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Attack2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Disappear",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-7-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "AmmoTracer",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 0,
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 2,
+              "topEdgeAnchor": 1,
+              "useLegacyBottomAndRightAnchors": false
+            }
+          ],
+          "string": "6 / 6",
+          "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+          "textAlignment": "right",
+          "characterSize": 38,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "BatCountTracer",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 1,
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 0,
+              "topEdgeAnchor": 1,
+              "useLegacyBottomAndRightAnchors": false
+            }
+          ],
+          "string": "0/3",
+          "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+          "textAlignment": "left",
+          "characterSize": 38,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "1f3dba67c868b7320572a6591d1d0418f23b7c132df0963cf77286a9149971d9",
+          "height": 128,
+          "name": "HealthBarFill",
+          "tags": "",
+          "texture": "tiled_Health Bar Fill.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 1,
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 0,
+              "topEdgeAnchor": 1,
+              "useLegacyBottomAndRightAnchors": false
+            }
+          ]
+        },
+        {
+          "assetStoreId": "138ee716846635e3e0e5ab7b63752d1a36754f1ac874c70e1b5fa372d5a05474",
+          "bottomMargin": 6,
+          "height": 15,
+          "leftMargin": 11,
+          "name": "HealthBarBox",
+          "rightMargin": 9,
+          "tags": "",
+          "texture": "Health Bar Box.png",
+          "tiled": true,
+          "topMargin": 6,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 96,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "c1d43b91a3f98287754630cabfa836d7bc737eabe5c0b1bc316a0d89da6ec050",
+          "bottomMargin": 12,
+          "height": 26,
+          "leftMargin": 10,
+          "name": "EnergyBar",
+          "rightMargin": 10,
+          "tags": "",
+          "texture": "Health Bar.png",
+          "tiled": true,
+          "topMargin": 13,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 78,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "04affdbb908b1afb34a9b778205f313aad0316266230ccc55e057153b861de9b",
+          "name": "Ammo1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 0,
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 2,
+              "topEdgeAnchor": 1,
+              "useLegacyBottomAndRightAnchors": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Ammo 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "ReloadTracker",
+          "tags": "",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 0,
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 2,
+              "topEdgeAnchor": 1,
+              "useLegacyBottomAndRightAnchors": false
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 2,
+          "outlineOpacity": 255,
+          "fillColor": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          },
+          "outlineColor": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true
+        },
+        {
+          "assetStoreId": "",
+          "name": "RainObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "DemageNumbers",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "1",
+          "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+          "textAlignment": "center",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -29151,25 +30367,6 @@
                 "=",
                 "AnimeSword.CenterY()"
               ]
-            },
-            {
-              "type": {
-                "value": "MakeItRain::MakeItRain"
-              },
-              "parameters": [
-                "",
-                "BloodDropRain",
-                "2",
-                "\"Down\"",
-                "0.1",
-                "",
-                "",
-                "40",
-                "3",
-                "100",
-                "yes",
-                ""
-              ]
             }
           ]
         },
@@ -29253,11 +30450,87 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "BatCountTracer",
+                "=",
+                "ToString(Player.Variable(BatCount)) + \"/\" + ToString(Player.Variable(BatMaxCount))"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "AmmoTracer",
+                "=",
+                "ToString(Player.FireBullet::ShotsBeforeNextReload()) + \"/\" + ToString(Player.FireBullet::ShotsPerReload())"
+              ]
+            },
+            {
+              "type": {
+                "value": "PrimitiveDrawing::Arc"
+              },
+              "parameters": [
+                "ReloadTracker",
+                "0",
+                "0",
+                "24",
+                "1",
+                "360",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "BigZombie",
+                "BigZombie",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "BigZombie",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "BatFlying",
+                "BatFlying",
+                ""
+              ]
+            }
+          ]
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Movement & VampDash",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -29307,7 +30580,7 @@
                         "Player",
                         "\"DashTimer\"",
                         ">",
-                        "1.5"
+                        "Player.Variable(DashCooldown)"
                       ]
                     }
                   ],
@@ -29799,7 +31072,7 @@
                         "Player",
                         "\"DashTimer\"",
                         ">",
-                        "1.5"
+                        "Player.Variable(DashCooldown)"
                       ]
                     }
                   ],
@@ -30291,7 +31564,7 @@
                         "Player",
                         "\"DashTimer\"",
                         ">",
-                        "1.5"
+                        "Player.Variable(DashCooldown)"
                       ]
                     },
                     {
@@ -30483,7 +31756,7 @@
                         "Player",
                         "\"DashTimer\"",
                         ">",
-                        "1.5"
+                        "Player.Variable(DashCooldown)"
                       ]
                     },
                     {
@@ -30913,6 +32186,32 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "r"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::ReloadAmmo"
+                  },
+                  "parameters": [
+                    "Player",
+                    "FireBullet",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "FireBullet::FireBullet::HasJustFired"
                   },
                   "parameters": [
@@ -31007,6 +32306,17 @@
                     "",
                     "60",
                     "RandomInRange(0.7,1.7)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "BulletsCounterUI",
+                    "-",
+                    "1"
                   ]
                 }
               ]
@@ -31110,6 +32420,54 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "FireBullet::FireBullet::IsOutOfAmmo"
+                  },
+                  "parameters": [
+                    "Player",
+                    "FireBullet",
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::IsReloadNeeded"
+                  },
+                  "parameters": [
+                    "Player",
+                    "FireBullet",
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::IsReloadInProgress"
+                  },
+                  "parameters": [
+                    "Player",
+                    "FireBullet",
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "AnimationEnded2"
                   },
                   "parameters": [
@@ -31195,7 +32553,7 @@
                         "Player",
                         "\"BatThrowTimer\"",
                         ">",
-                        "0.3"
+                        "Player.Variable(BatTimer)"
                       ]
                     },
                     {
@@ -31430,24 +32788,6 @@
                         },
                         {
                           "type": {
-                            "value": "Lighting::SetColor"
-                          },
-                          "parameters": [
-                            "BatLight",
-                            "\"0;219;255\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Lighting::SetRadius"
-                          },
-                          "parameters": [
-                            "BatLight",
-                            "74"
-                          ]
-                        },
-                        {
-                          "type": {
                             "value": "FlipX"
                           },
                           "parameters": [
@@ -31515,12 +32855,11 @@
                     },
                     {
                       "type": {
-                        "value": "Boomerang::Boomerang::IsBoomerangReturning"
+                        "value": "IsEffectEnabled"
                       },
                       "parameters": [
                         "BatFlying",
-                        "Boomerang",
-                        ""
+                        "\"Return\""
                       ]
                     }
                   ],
@@ -31531,15 +32870,6 @@
                       },
                       "parameters": [
                         "BatFlying",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "BatLight",
                         ""
                       ]
                     },
@@ -31564,7 +32894,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Dagger",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -32198,7 +33527,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "VampireState",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -32266,7 +33594,7 @@
                     "Tween",
                     "\"CameraZoom\"",
                     "VampireCameraZoom",
-                    "2",
+                    "1",
                     "\"linear\"",
                     "350",
                     ""
@@ -32547,7 +33875,7 @@
                     "Tween",
                     "\"CameraZoom\"",
                     "VampireCameraZoom",
-                    "2.5",
+                    "1.3",
                     "\"linear\"",
                     "150",
                     ""
@@ -32763,51 +34091,6 @@
                         "Player.CenterX()",
                         "Player.CenterY()"
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SeparateFromObjects"
-                      },
-                      "parameters": [
-                        "BigZombie",
-                        "BigZombie",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SeparateFromObjects"
-                      },
-                      "parameters": [
-                        "BigZombie",
-                        "Player",
-                        ""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "Distance"
-                          },
-                          "parameters": [
-                            "BigZombie",
-                            "BigZombie",
-                            "100",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": []
                     }
                   ]
                 },
@@ -33033,6 +34316,56 @@
                     "=",
                     "9"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "DemageNumbers",
+                    "BigZombie.CenterX()+RandomInRange(-5, +5)",
+                    "BigZombie.CenterY()+RandomInRange(-20, -5)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "DemageNumbers",
+                    "=",
+                    "ToString(Player.Variable(WhiteShotDMG))"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectPositionYTween"
+                  },
+                  "parameters": [
+                    "DemageNumbers",
+                    "Tween",
+                    "\"DemageNumbersTextFloatTween\"",
+                    "DemageNumbers.CenterY()-30",
+                    "\"easeOutQuad\"",
+                    "350",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectOpacityTween"
+                  },
+                  "parameters": [
+                    "DemageNumbers",
+                    "Tween",
+                    "\"DemageNumbersTextOpacityTween\"",
+                    "0",
+                    "\"easeOutQuad\"",
+                    "400",
+                    "yes"
+                  ]
                 }
               ]
             },
@@ -33150,6 +34483,28 @@
                     "BloodHoleParticleEmitter",
                     "=",
                     "9"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "DemageNumbers",
+                    "BigZombie.CenterX()+RandomInRange(-5, +5)",
+                    "BigZombie.CenterY()+RandomInRange(-20, -5)",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "DemageNumbers",
+                    "=",
+                    "ToString(Player.Variable(BloodShotDMG))"
                   ]
                 }
               ]
@@ -34089,7 +35444,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "BloodyVision",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": []
         },
@@ -34125,10 +35480,6 @@
         {
           "name": "IdleTracker",
           "type": "IdleTracker::IdleTracker"
-        },
-        {
-          "name": "LightObstacleBehavior",
-          "type": "Lighting::LightObstacleBehavior"
         },
         {
           "name": "MagneticEffect",
