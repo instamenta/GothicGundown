@@ -9035,6 +9035,150 @@
         "name": "NewSprite-8-2.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets/SFX/Pipoya VFX WarpPortal/192x192/pipo-gate01a192.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Assets\\SFX\\Pipoya VFX WarpPortal\\192x192\\pipo-gate01a192.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-1-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-1-15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-5-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-5-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-6-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-6-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-7-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-7-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-8-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-8-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-9-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-9-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-10-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-10-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-11-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-11-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-12-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-12-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-13-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-13-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-14-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-14-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-15-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-15-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -9063,7 +9207,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 3.045798532079934,
+        "zoomFactor": 1.076852398080878,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -29832,7 +29976,7 @@
                   "timeBetweenFrames": 0.085,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-1-4.png",
                       "points": [],
                       "originPoint": {
@@ -29846,10 +29990,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 25.863697052001953,
+                            "y": 0
+                          },
+                          {
+                            "x": 24.745891571044922,
+                            "y": 23.102052688598633
+                          },
+                          {
+                            "x": 10.345891952514648,
+                            "y": 22.641780853271484
+                          },
+                          {
+                            "x": 3.310274362564087,
+                            "y": 13.962329864501953
+                          },
+                          {
+                            "x": 10.280137062072754,
+                            "y": 0
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-2-4.png",
                       "points": [],
                       "originPoint": {
@@ -29863,10 +30030,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 25.863697052001953,
+                            "y": 0
+                          },
+                          {
+                            "x": 24.745891571044922,
+                            "y": 23.102052688598633
+                          },
+                          {
+                            "x": 10.345891952514648,
+                            "y": 22.641780853271484
+                          },
+                          {
+                            "x": 3.310274362564087,
+                            "y": 13.962329864501953
+                          },
+                          {
+                            "x": 10.280137062072754,
+                            "y": 0
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-3-4.png",
                       "points": [],
                       "originPoint": {
@@ -29880,10 +30070,33 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 25.863697052001953,
+                            "y": 0
+                          },
+                          {
+                            "x": 24.745891571044922,
+                            "y": 23.102052688598633
+                          },
+                          {
+                            "x": 10.345891952514648,
+                            "y": 22.641780853271484
+                          },
+                          {
+                            "x": 3.310274362564087,
+                            "y": 13.962329864501953
+                          },
+                          {
+                            "x": 10.280137062072754,
+                            "y": 0
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-4-3.png",
                       "points": [],
                       "originPoint": {
@@ -29897,7 +30110,30 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 25.863697052001953,
+                            "y": 0
+                          },
+                          {
+                            "x": 24.745891571044922,
+                            "y": 23.102052688598633
+                          },
+                          {
+                            "x": 10.345891952514648,
+                            "y": 22.641780853271484
+                          },
+                          {
+                            "x": 3.310274362564087,
+                            "y": 13.962329864501953
+                          },
+                          {
+                            "x": 10.280137062072754,
+                            "y": 0
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -31439,344 +31675,724 @@
                   "timeBetweenFrames": 0.035,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-1-13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-2-12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-3-12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-4-11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-5-9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-6-9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-7-3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-8-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-9-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-10-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-11-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-12-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-13-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-14-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-15-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-16-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-17-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-18-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-19-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-20-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -31791,344 +32407,724 @@
                   "timeBetweenFrames": 0.01,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-1-11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-2-10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-3-10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-4-9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-5-7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-6-7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-7-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-14.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-15.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-16.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-17.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-18.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-19.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-20.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -32143,106 +33139,220 @@
                   "timeBetweenFrames": 0.04,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-1-10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-2-9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-3-9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-4-8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-5-6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-6-6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -32257,140 +33367,292 @@
                   "timeBetweenFrames": 0.035,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-1-12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-2-11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-3-11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-4-10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-5-8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-6-8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-7-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-8-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -32405,140 +33667,292 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-1-14.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-2-13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-3-13.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-4-12.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-5-10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-6-10.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-7-4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "NewSprite-8-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.908775277333717,
+                        "y": 13.908776296328192
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.962199119672384,
+                        "y": 13.801926573661909
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1.1937079429626465,
+                            "y": 1.0868582725524902
+                          },
+                          {
+                            "x": 24.914255142211914,
+                            "y": 1.033433437347412
+                          },
+                          {
+                            "x": 25.021102905273438,
+                            "y": 26
+                          },
+                          {
+                            "x": 1.4074053764343262,
+                            "y": 26
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -33709,6 +35123,695 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "BloodChargeAnimation",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-1-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-2-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-3-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-4-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-5-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-6-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-7-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-8-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-9-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-10-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-11-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-12-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-13-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-14-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite-15-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 96.00410356913528,
+                        "y": 94.82055246013485
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 153.20957946777344,
+                            "y": 58.524658203125
+                          },
+                          {
+                            "x": 153.20957946777344,
+                            "y": 129.14382934570312
+                          },
+                          {
+                            "x": 94.03150939941406,
+                            "y": 161.88905334472656
+                          },
+                          {
+                            "x": 39.19316101074219,
+                            "y": 125.59315490722656
+                          },
+                          {
+                            "x": 32.48630905151367,
+                            "y": 63.65342330932617
+                          },
+                          {
+                            "x": 96.39864349365234,
+                            "y": 29.724660873413086
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -33746,12 +35849,20 @@
             },
             {
               "type": {
-                "value": "SetObjectVariableAsBoolean"
+                "value": "ResetObjectTimer"
               },
               "parameters": [
                 "Player",
-                "DaggerState",
-                "True"
+                "\"VampireStateTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"BloodPuddleTimer\""
               ]
             },
             {
@@ -33765,11 +35876,12 @@
             },
             {
               "type": {
-                "value": "ResetObjectTimer"
+                "value": "SetObjectVariableAsBoolean"
               },
               "parameters": [
                 "Player",
-                "\"VampireStateTimer\""
+                "DaggerState",
+                "True"
               ]
             },
             {
@@ -34066,7 +36178,7 @@
               "parameters": [
                 "",
                 "",
-                "ToString(Player.Variable(VampireVisionColor)) + \";\" + ToString(Player.Variable(VampireVisionColor)/5) + \";\" +\nToString(Player.Variable(VampireVisionColor)/5)"
+                "ToString(Player.Variable(VampireVisionColor)) + \";\" + ToString(Player.Variable(VampireVisionColor)/3) + \";\" +\nToString(Player.Variable(VampireVisionColor)/3)"
               ]
             },
             {
@@ -36497,6 +38609,16 @@
                         "=",
                         "Gun.Angle()-180"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "BatFlying",
+                        "=",
+                        "1.2"
+                      ]
                     }
                   ],
                   "events": [
@@ -36994,6 +39116,21 @@
                             "CameraFix",
                             "True"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "Tween::AddObjectVariableTween2"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Tween",
+                            "\"CameraZoom\"",
+                            "VampireCameraZoom",
+                            "2",
+                            "\"linear\"",
+                            "80",
+                            ""
+                          ]
                         }
                       ]
                     },
@@ -37264,6 +39401,28 @@
                         "Player.Y()",
                         "250",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Player",
+                        "VampireCameraZoom",
+                        "=",
+                        "1.6"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::StopTween"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Tween",
+                        "\"CameraZoom\"",
+                        "1.3"
                       ]
                     }
                   ],
@@ -37641,7 +39800,7 @@
                       },
                       "parameters": [
                         "",
-                        "ZombieSoulExplosionAnimation1",
+                        "ZombieSoulExplosionAnimation2",
                         "ZombieSoul.CenterX()",
                         "ZombieSoul.CenterY()",
                         ""
@@ -37853,7 +40012,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "VampireState",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -37910,21 +40068,6 @@
                     "Player",
                     "VampireState",
                     "True"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::AddObjectVariableTween2"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Tween",
-                    "\"CameraZoom\"",
-                    "VampireCameraZoom",
-                    "1.3",
-                    "\"linear\"",
-                    "350",
-                    ""
                   ]
                 },
                 {
@@ -38200,21 +40343,6 @@
                   "parameters": [
                     "Player",
                     "Tween",
-                    "\"CameraZoom\"",
-                    "VampireCameraZoom",
-                    "1.6",
-                    "\"linear\"",
-                    "150",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::AddObjectVariableTween2"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Tween",
                     "\"PlayerMaxSpeed\"",
                     "BloodUI",
                     "0",
@@ -38366,7 +40494,242 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Enemies",
+          "name": "BUFFERS",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "z"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"BloodPuddleTimer\"",
+                    ">",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "BloodChargeAnimation",
+                    "Player.CenterX()",
+                    "Player.CenterY()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "BloodChargeAnimation",
+                    "=",
+                    "7"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetSize"
+                  },
+                  "parameters": [
+                    "BloodChargeAnimation",
+                    "0.2",
+                    "0.2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Player",
+                        "BloodChargeAnimation",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::StopTween"
+                      },
+                      "parameters": [
+                        "BloodChargeAnimation",
+                        "Tween",
+                        "\"BloodChargeSizeTween\"",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "BloodChargeAnimation",
+                        "Tween",
+                        "\"BloodChargeSizeTween\"",
+                        "0.2",
+                        "0.2",
+                        "\"linear\"",
+                        "777",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FireBullet::FireBullet::SetFiringArc"
+                      },
+                      "parameters": [
+                        "Player",
+                        "FireBullet",
+                        "1",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FireBullet::FireBullet::SetBulletQuantity"
+                      },
+                      "parameters": [
+                        "Player",
+                        "FireBullet",
+                        "1",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Player",
+                        "BloodChargeAnimation",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::StopTween"
+                      },
+                      "parameters": [
+                        "BloodChargeAnimation",
+                        "Tween",
+                        "\"BloodChargeSizeTween\"",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "BloodChargeAnimation",
+                        "Tween",
+                        "\"BloodChargeSizeTween\"",
+                        "1",
+                        "1",
+                        "\"linear\"",
+                        "1500",
+                        "",
+                        "yes"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "ScaleHeight"
+                          },
+                          "parameters": [
+                            "BloodChargeAnimation",
+                            ">",
+                            "0.7"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FireBullet::FireBullet::SetFiringArc"
+                          },
+                          "parameters": [
+                            "Player",
+                            "FireBullet",
+                            "25",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FireBullet::FireBullet::SetBulletQuantity"
+                          },
+                          "parameters": [
+                            "Player",
+                            "FireBullet",
+                            "3",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "ENEMIES",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
