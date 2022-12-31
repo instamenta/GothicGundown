@@ -31324,7 +31324,7 @@
           ],
           "string": "FPS: 100",
           "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
-          "textAlignment": "left",
+          "textAlignment": "right",
           "characterSize": 20,
           "color": {
             "b": 255,
@@ -35863,6 +35863,15 @@
               "parameters": [
                 "Player",
                 "\"BloodPuddleTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Player",
+                "\"BloodPuddleHealingTimer\""
               ]
             },
             {
@@ -40554,6 +40563,15 @@
                     "0.2",
                     "0.2"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"BloodPuddleTimer\""
+                  ]
                 }
               ]
             },
@@ -40712,6 +40730,46 @@
                             "FireBullet",
                             "3",
                             ""
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "CompareObjectTimer"
+                              },
+                              "parameters": [
+                                "Player",
+                                "\"BloodPuddleHealingTimer\"",
+                                ">",
+                                "0.333333"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Health::Health::Heal"
+                              },
+                              "parameters": [
+                                "Player",
+                                "Health",
+                                "1",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "ResetObjectTimer"
+                              },
+                              "parameters": [
+                                "Player",
+                                "\"BloodPuddleHealingTimer\""
+                              ]
+                            }
                           ]
                         }
                       ]
