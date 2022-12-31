@@ -9063,7 +9063,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6403002668027624,
+        "zoomFactor": 3.045798532079934,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -9477,21 +9477,6 @@
           "x": 1144,
           "y": 729,
           "zOrder": 127,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "FlyingDagger",
-          "persistentUuid": "828068c7-99fe-4a85-8b6c-5c5b754e7ffd",
-          "width": 0,
-          "x": 588,
-          "y": 269,
-          "zOrder": 128,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -19737,6 +19722,18 @@
               "name": "ReloadStatus",
               "type": "number",
               "value": 360
+            },
+            {
+              "folded": true,
+              "name": "VampireDagger",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "CameraFix",
+              "type": "boolean",
+              "value": false
             }
           ],
           "effects": [],
@@ -22002,8 +21999,8 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "radius": 79,
-            "color": "255;0;0",
+            "radius": 170,
+            "color": "255;164;164",
             "debugMode": false,
             "texture": ""
           }
@@ -31074,13 +31071,13 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Anchor",
+              "type": "AnchorBehavior::AnchorBehavior",
               "bottomEdgeAnchor": 2,
               "leftEdgeAnchor": 0,
-              "name": "Anchor",
               "relativeToOriginalWindowSize": true,
               "rightEdgeAnchor": 2,
               "topEdgeAnchor": 0,
-              "type": "AnchorBehavior::AnchorBehavior",
               "useLegacyBottomAndRightAnchors": false
             },
             {
@@ -31420,7 +31417,18 @@
               "booleanParameters": {}
             }
           ],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Boomerang",
+              "type": "Boomerang::Boomerang",
+              "ThrowSpeed": 100,
+              "ReturnTime": 1,
+              "Rotation": 360,
+              "ThrowerX": 0,
+              "ThrowerY": 0,
+              "BoomerangReturning": false
+            }
+          ],
           "animations": [
             {
               "name": "360Slash",
@@ -31780,7 +31788,7 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.01,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -32132,7 +32140,7 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.04,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -32246,7 +32254,1171 @@
               "directions": [
                 {
                   "looping": false,
+                  "timeBetweenFrames": 0.035,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-7-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-8-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Stab",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
                   "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-7-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-8-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "FlyingDaggerShadowClone",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [
+            {
+              "effectType": "Glow",
+              "name": "Return",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "0;216;216"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Glow",
+              "name": "Attack",
+              "doubleParameters": {
+                "distance": 15,
+                "innerStrength": 1,
+                "outerStrength": 2
+              },
+              "stringParameters": {
+                "color": "255;0;0"
+              },
+              "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "Boomerang",
+              "type": "Boomerang::Boomerang",
+              "ThrowSpeed": 100,
+              "ReturnTime": 1,
+              "Rotation": 360,
+              "ThrowerX": 0,
+              "ThrowerY": 0,
+              "BoomerangReturning": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "360Slash",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.035,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-7-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-8-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-9-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-10-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-11-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-12-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-13-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-14-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-15-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-16-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-17-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-18-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-19-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-20-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Disappear",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.01,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-7-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "90Slash",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.04,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-1-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-2-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-3-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-4-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-5-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite-6-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "180Slash",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.035,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -32714,18 +33886,6 @@
             },
             {
               "type": {
-                "value": "SetCenter"
-              },
-              "parameters": [
-                "Camera",
-                "=",
-                "lerp((Camera.X()+Player.X())/2,MouseX(),0.06)",
-                "=",
-                "lerp((Camera.Y()+Player.Y())/2,MouseY(),0.09)"
-              ]
-            },
-            {
-              "type": {
                 "value": "RotateTowardPosition"
               },
               "parameters": [
@@ -32767,9 +33927,9 @@
               "parameters": [
                 "DaggerLight",
                 "=",
-                "AnimeSword.CenterX()",
+                "FlyingDagger.CenterX()",
                 "=",
-                "AnimeSword.CenterY()"
+                "FlyingDagger.CenterY()"
               ]
             },
             {
@@ -32794,6 +33954,103 @@
                 "\"easeTo\"",
                 "100",
                 ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player",
+                    "VampireDagger",
+                    "True"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player",
+                    "CameraFix",
+                    "True"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "IsEffectEnabled"
+                  },
+                  "parameters": [
+                    "FlyingDagger",
+                    "\"Return\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "Camera",
+                    "=",
+                    "lerp((Camera.X()+FlyingDagger.CenterX())/2,MouseX(),0.06)",
+                    "=",
+                    "lerp((Camera.Y()+FlyingDagger.CenterY())/2,MouseY(),0.09)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "VampireDagger",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "IsEffectEnabled"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "\"Return\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "Camera",
+                    "=",
+                    "lerp((Camera.X()+Player.X())/2,MouseX(),0.06)",
+                    "=",
+                    "lerp((Camera.Y()+Player.Y())/2,MouseY(),0.09)"
+                  ]
+                }
               ]
             }
           ]
@@ -32959,6 +34216,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Movement & VampDash",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -34414,6 +35672,16 @@
                     "FireBullet",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player",
+                    "VampireDagger",
+                    "False"
+                  ]
                 }
               ],
               "actions": [
@@ -34476,6 +35744,16 @@
                     "Player",
                     "FireBullet",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player",
+                    "VampireDagger",
+                    "False"
                   ]
                 }
               ],
@@ -35507,7 +36785,7 @@
                       },
                       "parameters": [
                         "",
-                        "AnimeSword",
+                        "FlyingDagger",
                         "Gun.PointX(\"Front\")",
                         "Gun.PointY(\"Front\")",
                         ""
@@ -35530,24 +36808,23 @@
                         "value": "Boomerang::Boomerang::ThrowBoomerangPosition"
                       },
                       "parameters": [
-                        "AnimeSword",
+                        "FlyingDagger",
                         "Boomerang",
                         "MouseX()",
                         "MouseY()",
                         "250",
-                        "2",
-                        "160",
+                        "2.7",
+                        "-280",
                         ""
                       ]
                     },
                     {
                       "type": {
-                        "value": "EnableEffect"
+                        "value": "ResetObjectTimer"
                       },
                       "parameters": [
-                        "AnimeSword",
-                        "\"Return\"",
-                        ""
+                        "Player",
+                        "\"DaggerThrowTimer\""
                       ]
                     },
                     {
@@ -35572,15 +36849,6 @@
                     },
                     {
                       "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "Player",
-                        "\"DaggerThrowTimer\""
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "EnableEffect"
                       },
                       "parameters": [
@@ -35598,6 +36866,255 @@
                         "=",
                         "1.3"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "CameraFix",
+                        "False"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "q"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Boomerang::Boomerang::IsBoomerangReturning"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "Boomerang",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "DaggerState",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "Player",
+                        "\"DaggerThrowTimer\"",
+                        ">",
+                        "0.2"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "VampireDagger",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "ObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "CameraFix",
+                            "False"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.15"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "HitLagState",
+                            "True"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangeTimeScale"
+                          },
+                          "parameters": [
+                            "",
+                            "0.2"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "CameraFix",
+                            "True"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "ObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "CameraFix",
+                            "True"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AddForceVersPos"
+                          },
+                          "parameters": [
+                            "FlyingDagger",
+                            "MouseX()",
+                            "MouseY()",
+                            "1000",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "q"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "DaggerState",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "Player",
+                        "\"DaggerThrowTimer\"",
+                        ">",
+                        "0.2"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ChangeTimeScale"
+                      },
+                      "parameters": [
+                        "",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "VampireDagger",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "HitLagState",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Boomerang::Boomerang::ReturnBoomerang"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "Boomerang",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectOpacityTween"
+                      },
+                      "parameters": [
+                        "DaggerUI",
+                        "Tween",
+                        "\"DaggerUIOpacityTween\"",
+                        "255",
+                        "\"swingTo\"",
+                        "100",
+                        ""
+                      ]
                     }
                   ]
                 },
@@ -35609,7 +37126,215 @@
                         "value": "Boomerang::Boomerang::IsBoomerangReturning"
                       },
                       "parameters": [
-                        "AnimeSword",
+                        "FlyingDagger",
+                        "Boomerang",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "DaggerUI",
+                        "\"AttackGlow\"",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "\"Attack\"",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "\"Return\"",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "EnableEffect"
+                      },
+                      "parameters": [
+                        "DaggerUI",
+                        "\"ReturnGlow\"",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Lighting::SetColor"
+                      },
+                      "parameters": [
+                        "DaggerLight",
+                        "\"0;246;255\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Lighting::SetRadius"
+                      },
+                      "parameters": [
+                        "DaggerLight",
+                        "60"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "VampireDagger",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeTimeScale"
+                      },
+                      "parameters": [
+                        "",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Player",
+                        "HitLagState",
+                        "False"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Boomerang::Boomerang::IsBoomerangReturning"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "Boomerang",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Boomerang::Boomerang::TrackingThrower"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "Boomerang",
+                        "Player",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AddForceVersPos"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "Player.X()",
+                        "Player.Y()",
+                        "250",
+                        ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "TimeScale"
+                          },
+                          "parameters": [
+                            "",
+                            "=",
+                            "0.2"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeTimeScale"
+                          },
+                          "parameters": [
+                            "",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "HitLagState",
+                            "False"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "CameraFix",
+                            "False"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "VampireDagger",
+                            "False"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Boomerang::Boomerang::IsBoomerangReturning"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
                         "Boomerang",
                         ""
                       ]
@@ -35619,7 +37344,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "AnimeSword",
+                        "FlyingDagger",
                         "Player",
                         "",
                         "",
@@ -35633,7 +37358,7 @@
                         "value": "Delete"
                       },
                       "parameters": [
-                        "AnimeSword",
+                        "FlyingDagger",
                         ""
                       ]
                     },
@@ -35687,32 +37412,75 @@
                   "conditions": [
                     {
                       "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "ObjectVariableAsBoolean"
                       },
                       "parameters": [
                         "Player",
-                        "DaggerState",
+                        "VampireDagger",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Boomerang::Boomerang::IsBoomerangReturning"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "Boomerang",
                         ""
                       ]
                     },
                     {
                       "type": {
-                        "value": "KeyPressed"
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "FlyingDagger"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "FlyingDagger",
+                        "\"90Slash\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
                       },
                       "parameters": [
                         "",
-                        "q"
+                        "Right"
                       ]
                     },
                     {
                       "type": {
-                        "value": "CompareObjectTimer"
+                        "value": "ObjectVariableAsBoolean"
                       },
                       "parameters": [
                         "Player",
-                        "\"DaggerThrowTimer\"",
-                        ">",
-                        "0.25"
+                        "VampireDagger",
+                        "True"
                       ]
                     },
                     {
@@ -35721,156 +37489,28 @@
                         "value": "Boomerang::Boomerang::IsBoomerangReturning"
                       },
                       "parameters": [
-                        "AnimeSword",
+                        "FlyingDagger",
                         "Boomerang",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "FlyingDagger"
                       ]
                     }
                   ],
                   "actions": [
                     {
                       "type": {
-                        "value": "Boomerang::Boomerang::ReturnBoomerang"
+                        "value": "SetAnimationName"
                       },
                       "parameters": [
-                        "AnimeSword",
-                        "Boomerang",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Tween::AddObjectOpacityTween"
-                      },
-                      "parameters": [
-                        "DaggerUI",
-                        "Tween",
-                        "\"DaggerUIOpacityTween\"",
-                        "255",
-                        "\"swingTo\"",
-                        "100",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Boomerang::Boomerang::IsBoomerangReturning"
-                      },
-                      "parameters": [
-                        "AnimeSword",
-                        "Boomerang",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "EnableEffect"
-                      },
-                      "parameters": [
-                        "DaggerUI",
-                        "\"AttackGlow\"",
-                        "no"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "EnableEffect"
-                      },
-                      "parameters": [
-                        "AnimeSword",
-                        "\"Attack\"",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "EnableEffect"
-                      },
-                      "parameters": [
-                        "AnimeSword",
-                        "\"Return\"",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "EnableEffect"
-                      },
-                      "parameters": [
-                        "DaggerUI",
-                        "\"ReturnGlow\"",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Lighting::SetColor"
-                      },
-                      "parameters": [
-                        "DaggerLight",
-                        "\"0;246;255\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Lighting::SetRadius"
-                      },
-                      "parameters": [
-                        "DaggerLight",
-                        "60"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Boomerang::Boomerang::IsBoomerangReturning"
-                      },
-                      "parameters": [
-                        "AnimeSword",
-                        "Boomerang",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Boomerang::Boomerang::TrackingThrower"
-                      },
-                      "parameters": [
-                        "AnimeSword",
-                        "Boomerang",
-                        "Player",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AddForceVersPos"
-                      },
-                      "parameters": [
-                        "AnimeSword",
-                        "Player.X()",
-                        "Player.Y()",
-                        "250",
-                        ""
+                        "FlyingDagger",
+                        "\"180Slash\""
                       ]
                     }
                   ]
@@ -35884,7 +37524,7 @@
                         "value": "Boomerang::Boomerang::IsBoomerangReturning"
                       },
                       "parameters": [
-                        "AnimeSword",
+                        "FlyingDagger",
                         "Boomerang",
                         ""
                       ]
@@ -35896,7 +37536,7 @@
                         "value": "AddForceVersPos"
                       },
                       "parameters": [
-                        "AnimeSword",
+                        "FlyingDagger",
                         "MouseX()",
                         "MouseY()",
                         "250",
@@ -35913,7 +37553,7 @@
                         "value": "CollisionNP"
                       },
                       "parameters": [
-                        "AnimeSword",
+                        "FlyingDagger",
                         "ZombieSoul",
                         "",
                         "",
@@ -36113,43 +37753,46 @@
                       "parameters": [
                         "0.07"
                       ]
-                    },
+                    }
+                  ],
+                  "events": [
                     {
-                      "type": {
-                        "value": "ChangeTimeScale"
-                      },
-                      "parameters": [
-                        "",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetObjectVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "Player",
-                        "HitLagState",
-                        "False"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "ObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "VampireDagger",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeTimeScale"
+                          },
+                          "parameters": [
+                            "",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "HitLagState",
+                            "False"
+                          ]
+                        }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ObjectVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "Player",
-                        "DaggerState",
-                        "="
-                      ]
-                    }
-                  ],
-                  "actions": []
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -36732,7 +38375,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Enemy AI",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -36867,58 +38509,6 @@
                       "parameters": [
                         "BigZombie",
                         "no"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Distance"
-                      },
-                      "parameters": [
-                        "BigZombie",
-                        "BigZombie",
-                        "100",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PickNearest"
-                      },
-                      "parameters": [
-                        "BigZombie",
-                        "BigZombie.CenterX()",
-                        "BigZombie.CenterY()",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "BossIcon",
-                        "BigZombie.CenterX()",
-                        "BigZombie.CenterY()",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AddForceAL"
-                      },
-                      "parameters": [
-                        "BigZombie",
-                        "Player.AngleToObject(BigZombie)-180",
-                        "1000",
-                        ""
                       ]
                     }
                   ]
@@ -37685,15 +39275,43 @@
                       "parameters": [
                         "0.07"
                       ]
-                    },
+                    }
+                  ],
+                  "events": [
                     {
-                      "type": {
-                        "value": "SetObjectVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "Player",
-                        "HitLagState",
-                        "False"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "ObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "VampireDagger",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ChangeTimeScale"
+                          },
+                          "parameters": [
+                            "",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Player",
+                            "HitLagState",
+                            "False"
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -38319,24 +39937,43 @@
               "parameters": [
                 "0.1"
               ]
-            },
+            }
+          ],
+          "events": [
             {
-              "type": {
-                "value": "ChangeTimeScale"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetObjectVariableAsBoolean"
-              },
-              "parameters": [
-                "Player",
-                "HitLagState",
-                "False"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player",
+                    "VampireDagger",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player",
+                    "HitLagState",
+                    "False"
+                  ]
+                }
               ]
             }
           ]
@@ -38489,6 +40126,356 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "Entropy",
+      "category": "Advanced",
+      "extensionNamespace": "",
+      "fullName": "Pathfinding painter",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXJlc2lzdG9yLW5vZGVzIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIsMTFIMy42N0M0LjA4LDkuODMgNS4xOSw5IDYuNSw5QTMsMyAwIDAsMSA5LjUsMTJDOS41LDEyLjY1IDkuMjksMTMuMjUgOC45NCwxMy43NEwxMC4wNywxNS4zNUwxMy4xMSw0TDE0LjYxLDYuMTNMMTYuNyw5LjExTDE3LjUsOUMxOC44MSw5IDE5LjkyLDkuODMgMjAuMzMsMTFIMjJWMTNIMjAuMzNDMTkuOTIsMTQuMTcgMTguODEsMTUgMTcuNSwxNUEzLDMgMCAwLDEgMTQuNSwxMkMxNC41LDExLjM1IDE0LjcxLDEwLjc1IDE1LjA2LDEwLjI2TDEzLjkzLDguNjVMMTAuODksMjBMNy4zLDE0Ljg5QzcuMDUsMTQuOTYgNi43OCwxNSA2LjUsMTVDNS4xOSwxNSA0LjA4LDE0LjE3IDMuNjcsMTNIMlYxMU0xNy41LDEwLjVBMS41LDEuNSAwIDAsMCAxNiwxMkExLjUsMS41IDAgMCwwIDE3LjUsMTMuNUExLjUsMS41IDAgMCwwIDE5LDEyQTEuNSwxLjUgMCAwLDAgMTcuNSwxMC41TTYuNSwxMC41QTEuNSwxLjUgMCAwLDAgNSwxMkExLjUsMS41IDAgMCwwIDYuNSwxMy41QTEuNSwxLjUgMCAwLDAgOCwxMkExLjUsMS41IDAgMCwwIDYuNSwxMC41WiIgLz48L3N2Zz4=",
+      "name": "DrawPathfinding",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/resistor-nodes.svg",
+      "shortDescription": "Draw the pathfinding of an object using a shape painter.",
+      "version": "0.1.3",
+      "description": "Draw the path followed by an object using a shape painter.",
+      "origin": {
+        "identifier": "DrawPathfinding",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "pathfinding",
+        "debug",
+        "shape painter",
+        "draw"
+      ],
+      "authorIds": [
+        "q8ubdigLvIRXLxsJDDTaokO41mc2"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Draw the path followed by the object using a shape painter.",
+          "fullName": "Pathfinding painter",
+          "name": "DrawPathfinding",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "description": "Draw the path followed by the object using a shape painter. It automatically creates an instance of the shape painter object if there is none.",
+              "fullName": "Draw pathfinding",
+              "functionType": "Action",
+              "name": "DrawPathfinding",
+              "sentence": "Draw the path followed by _PARAM0_ using _PARAM3_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Create the shape painter if one doesn't exist",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NbObjet"
+                      },
+                      "parameters": [
+                        "ShapePainterObject",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "ShapePainterObject",
+                        "0",
+                        "0",
+                        "Object.Layer()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "ShapePainterObject",
+                        "=",
+                        "Object.ZOrder()-1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Enforce absolute coordinates",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PrimitiveDrawing::AreCoordinatesRelative"
+                      },
+                      "parameters": [
+                        "ShapePainterObject"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PrimitiveDrawing::UseRelativeCoordinates"
+                      },
+                      "parameters": [
+                        "ShapePainterObject",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Reset counter",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "DrawPathfinding::DrawPathfinding::SetPropertyLoopIndex"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Draw path",
+                  "comment2": ""
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Repeat",
+                  "repeatExpression": "Object.PathfindingBehavior::NodeCount()",
+                  "conditions": [],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Draw circles on each node",
+                      "comment2": ""
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "DrawPathfinding::DrawPathfinding::PropertyLoopIndex"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "<=",
+                            "Object.PathfindingBehavior::NodeCount()-1"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PrimitiveDrawing::Circle"
+                          },
+                          "parameters": [
+                            "ShapePainterObject",
+                            "Object.PathfindingBehavior::GetNodeX(Object.Behavior::PropertyLoopIndex())",
+                            "Object.PathfindingBehavior::GetNodeY(Object.Behavior::PropertyLoopIndex())",
+                            "3"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Draw lines between nodes",
+                      "comment2": ""
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "DrawPathfinding::DrawPathfinding::PropertyLoopIndex"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "<",
+                            "Object.PathfindingBehavior::NodeCount()-1"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PrimitiveDrawing::LineV2"
+                          },
+                          "parameters": [
+                            "ShapePainterObject",
+                            "Object.PathfindingBehavior::GetNodeX(Object.Behavior::PropertyLoopIndex())",
+                            "Object.PathfindingBehavior::GetNodeY(Object.Behavior::PropertyLoopIndex())",
+                            "Object.PathfindingBehavior::GetNodeX(Object.Behavior::PropertyLoopIndex() +1)",
+                            "Object.PathfindingBehavior::GetNodeY(Object.Behavior::PropertyLoopIndex()+1)",
+                            "3"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "DrawPathfinding::DrawPathfinding::SetPropertyLoopIndex"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "+",
+                            "1"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "DrawPathfinding::DrawPathfinding",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Pathfinding behavior",
+                  "name": "PathfindingBehavior",
+                  "supplementaryInformation": "PathfindingBehavior::PathfindingBehavior",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Shape painter used to draw the path",
+                  "name": "ShapePainterObject",
+                  "supplementaryInformation": "PrimitiveDrawing::Drawer",
+                  "type": "objectList"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "LoopIndex",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "LoopIndex"
+            },
+            {
+              "value": "",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "CorrectionX"
+            },
+            {
+              "value": "",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "CorrectionY"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "Tristan Rhodes (https://victrisgames.itch.io/)",
       "category": "Visual effect",
