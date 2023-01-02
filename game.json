@@ -9227,7 +9227,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.32015013340138115,
+        "zoomFactor": 0.2577993473075943,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -36492,6 +36492,51 @@
               ]
             }
           ]
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 35,
+          "emitterForceMax": 120,
+          "emitterForceMin": 100,
+          "flow": 700,
+          "maxParticleNb": 300,
+          "name": "GunFireParticleEmitter",
+          "particleAlpha1": 230,
+          "particleAlpha2": 230,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 0,
+          "particleBlue2": 0,
+          "particleGravityX": 0,
+          "particleGravityY": -140,
+          "particleGreen1": 53,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 0.34,
+          "particleLifeTimeMin": 0.3,
+          "particleRed1": 255,
+          "particleRed2": 255,
+          "particleSize1": 70,
+          "particleSize2": 0,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 2,
+          "rendererParam2": 1,
+          "rendererType": "Point",
+          "tags": "",
+          "tank": 70,
+          "textureParticleName": "",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 1,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -38447,7 +38492,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Gun Fire & Flip State",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -38803,6 +38847,28 @@
                 },
                 {
                   "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "GunFireParticleEmitter",
+                    "Gun.PointX(\"Front\")",
+                    "Gun.PointY(\"Front\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "GunFireParticleEmitter",
+                    "=",
+                    "Gun.Angle()"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Opacity"
                   },
                   "parameters": [
@@ -38832,6 +38898,36 @@
                     "BulletsCounterUI",
                     "-",
                     "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "GunEffectAnimation1",
+                    "=",
+                    "14"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "GunFireParticleEmitter",
+                    "=",
+                    "14"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "GunSmokeParticleEmitter",
+                    "=",
+                    "14"
                   ]
                 }
               ]
@@ -38866,6 +38962,18 @@
                 },
                 {
                   "type": {
+                    "value": "SetCenter"
+                  },
+                  "parameters": [
+                    "GunFireParticleEmitter",
+                    "=",
+                    "Gun.PointX(\"GunSmoke\")",
+                    "=",
+                    "Gun.PointY(\"GunSmoke\")"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetAngle"
                   },
                   "parameters": [
@@ -38882,26 +38990,6 @@
                     "GunSmokeParticleEmitter",
                     "=",
                     "Gun.Angle()"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangePlan"
-                  },
-                  "parameters": [
-                    "GunSmokeParticleEmitter",
-                    "=",
-                    "14"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangePlan"
-                  },
-                  "parameters": [
-                    "GunEffectAnimation1",
-                    "=",
-                    "14"
                   ]
                 }
               ],
@@ -39624,8 +39712,8 @@
                         "MouseX()",
                         "MouseY()",
                         "250",
-                        "2.7",
-                        "-280",
+                        "2",
+                        "-340",
                         ""
                       ]
                     },
